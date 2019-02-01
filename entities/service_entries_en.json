@@ -1,0 +1,95 @@
+[
+  {
+    "value": "netflix",
+    "synonyms": [
+      "Netflix"
+    ]
+  },
+  {
+    "value": "amazon-prime",
+    "synonyms": [
+      "Amazon",
+      "prime video",
+      "amazon prime video"
+    ]
+  },
+  {
+    "value": "bittorrent",
+    "synonyms": [
+      "bittorrent"
+    ]
+  },
+  {
+    "value": "youtube",
+    "synonyms": [
+      "youtube"
+    ]
+  },
+  {
+    "value": "vimeo",
+    "synonyms": [
+      "vimeo"
+    ]
+  },
+  {
+    "value": "instagram",
+    "synonyms": [
+      "instagram"
+    ]
+  },
+  {
+    "value": "popcorn-time",
+    "synonyms": [
+      "popcorn-time",
+      "popcorn"
+    ]
+  },
+  {
+    "value": "email",
+    "synonyms": [
+      "email",
+      "mail",
+      "mail server",
+      "mail servers"
+    ]
+  },
+  {
+    "value": "file sharing",
+    "synonyms": [
+      "file sharing",
+      "downloading",
+      "file share server",
+      "download server",
+      "file server"
+    ]
+  },
+  {
+    "value": "CounterStrike server",
+    "synonyms": [
+      "CounterStrike server",
+      "CS server",
+      "CS",
+      "Counter Strike"
+    ]
+  },
+  {
+    "value": "irc",
+    "synonyms": [
+      "irc",
+      "IRC"
+    ]
+  },
+  {
+    "value": "facebook",
+    "synonyms": [
+      "facebook",
+      "Facebook"
+    ]
+  },
+  {
+    "value": "skype",
+    "synonyms": [
+      "skype"
+    ]
+  }
+]

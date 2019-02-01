@@ -1,0 +1,111 @@
+[
+  {
+    "value": "traffic shaping",
+    "synonyms": [
+      "traffic shaping",
+      "traffic shaper",
+      "shaping",
+      "prioritize",
+      "priority"
+    ]
+  },
+  {
+    "value": "intrusion detection",
+    "synonyms": [
+      "intrusion detection",
+      "intrusion detection system",
+      "ids",
+      "security"
+    ]
+  },
+  {
+    "value": "deep inspection",
+    "synonyms": [
+      "deep inspection",
+      "deep packet inspection",
+      "dpi",
+      "security",
+      "packet inspection"
+    ]
+  },
+  {
+    "value": "parental control",
+    "synonyms": [
+      "parental control",
+      "parent inspection",
+      "children protection",
+      "content control",
+      "child protection"
+    ]
+  },
+  {
+    "value": "address translation",
+    "synonyms": [
+      "address translation",
+      "network address translation",
+      "translation",
+      "nat"
+    ]
+  },
+  {
+    "value": "virtual private network",
+    "synonyms": [
+      "vpn",
+      "private netwok",
+      "privacy",
+      "tunneling"
+    ]
+  },
+  {
+    "value": "load balancer",
+    "synonyms": [
+      "load balancer",
+      "load balancing",
+      "balancing",
+      "Balance"
+    ]
+  },
+  {
+    "value": "firewall",
+    "synonyms": [
+      "firewall",
+      "security"
+    ]
+  },
+  {
+    "value": "copyright-monitoring",
+    "synonyms": [
+      "copyright-monitoring",
+      "copyright",
+      "copyright violation",
+      "copyright violation"
+    ]
+  },
+  {
+    "value": "traffic monitor",
+    "synonyms": [
+      "traffic monitor",
+      "system traffic monitor",
+      "network traffic monitor",
+      "network throughput monitor",
+      "using notification",
+      "overuse notification",
+      "quota",
+      "data limit",
+      "monitors"
+    ]
+  },
+  {
+    "value": "overuse notification",
+    "synonyms": [
+      "overuse notification"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "all middleboxes"
+    ]
+  }
+]

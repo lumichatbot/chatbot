@@ -1,0 +1,69 @@
+[
+  {
+    "value": "allow",
+    "synonyms": [
+      "allow",
+      "allowed",
+      "allowing",
+      "let",
+      "Permit",
+      "permit",
+      "grant"
+    ]
+  },
+  {
+    "value": "block",
+    "synonyms": [
+      "block",
+      "blocked",
+      "blocking",
+      "cannot run",
+      "can not run",
+      "may not run",
+      "do not let",
+      "deny"
+    ]
+  },
+  {
+    "value": "set",
+    "synonyms": [
+      "set",
+      "fix",
+      "allocate",
+      "settle",
+      "Define",
+      "provide",
+      "will have"
+    ]
+  },
+  {
+    "value": "unset",
+    "synonyms": [
+      "unset",
+      "withhold",
+      "unfix",
+      "unsettle",
+      "does not have any",
+      "dismiss"
+    ]
+  },
+  {
+    "value": "add",
+    "synonyms": [
+      "add",
+      "put",
+      "increase",
+      "include",
+      "append",
+      "must pass through"
+    ]
+  },
+  {
+    "value": "remove",
+    "synonyms": [
+      "remove",
+      "delete",
+      "cut out"
+    ]
+  }
+]

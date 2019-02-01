@@ -1,0 +1,62 @@
+[
+  {
+    "value": "to @location:location",
+    "synonyms": [
+      "to @location:location"
+    ]
+  },
+  {
+    "value": "end at @location:location",
+    "synonyms": [
+      "end at @location:location"
+    ]
+  },
+  {
+    "value": "ending at @location:location",
+    "synonyms": [
+      "ending at @location:location"
+    ]
+  },
+  {
+    "value": "to my @location:location",
+    "synonyms": [
+      "to my @location:location"
+    ]
+  },
+  {
+    "value": "to the @location:location",
+    "synonyms": [
+      "to the @location:location"
+    ]
+  },
+  {
+    "value": "to a @location:location",
+    "synonyms": [
+      "to a @location:location"
+    ]
+  },
+  {
+    "value": "to @service:service",
+    "synonyms": [
+      "to @service:service"
+    ]
+  },
+  {
+    "value": "to a @service:service",
+    "synonyms": [
+      "to a @service:service"
+    ]
+  },
+  {
+    "value": "ending at @service:service",
+    "synonyms": [
+      "ending at @service:service"
+    ]
+  },
+  {
+    "value": "and @location:location",
+    "synonyms": [
+      "and @location:location"
+    ]
+  }
+]

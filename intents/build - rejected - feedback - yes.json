@@ -1,0 +1,42 @@
+{
+  "id": "17ba39af-7b9e-4dec-b78a-114af0552e94",
+  "parentId": "3c44982e-1a24-4e26-9013-c88b2ca1d791",
+  "rootParentId": "64cdfdeb-18dd-4c76-be0a-4b55021ad1eb",
+  "name": "build - rejected - feedback - yes",
+  "auto": true,
+  "contexts": [
+    "build-rejected-feedback-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "build.build-rejected.feedback.build-rejected-feedback-yes",
+      "affectedContexts": [
+        {
+          "name": "build-no-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Okay, so what else did I miss?",
+            "What other words did I miss?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540232557,
+  "fallbackIntent": false,
+  "events": []
+}

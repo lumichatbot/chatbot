@@ -1,0 +1,33 @@
+{
+  "id": "cd888366-ae3d-437a-971b-ced1e7308382",
+  "parentId": "13675387-afbc-4e44-9d22-d579ef6260b4",
+  "rootParentId": "64cdfdeb-18dd-4c76-be0a-4b55021ad1eb",
+  "name": "build - rejected - feedback - no - yes",
+  "auto": true,
+  "contexts": [
+    "build-rejected-feedback-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "build.build-rejected.feedback.train",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1540211906,
+  "fallbackIntent": false,
+  "events": []
+}

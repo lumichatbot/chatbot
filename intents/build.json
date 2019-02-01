@@ -1,0 +1,176 @@
+{
+  "id": "64cdfdeb-18dd-4c76-be0a-4b55021ad1eb",
+  "name": "build",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "build.nile",
+      "affectedContexts": [
+        {
+          "name": "build-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "2a87f81c-1bac-4c26-b66b-7ae0f8e9e451",
+          "required": false,
+          "dataType": "@target",
+          "name": "target",
+          "value": "$target",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "a43f406c-96d3-4f5a-86db-1e117ff1ac8c",
+          "required": false,
+          "dataType": "@qos_metric",
+          "name": "qos_metric",
+          "value": "$qos_metric",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "71d48409-0b30-4c7c-b75f-2ca3b61ee409",
+          "required": false,
+          "dataType": "@qos_value",
+          "name": "qos_value",
+          "value": "$qos_value",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "7db37a32-c0a9-4a84-ad43-aaf5b6bba19b",
+          "required": false,
+          "dataType": "@qos_unit",
+          "name": "qos_unit",
+          "value": "$qos_unit",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "136476d8-7ef3-4904-9708-4abc2bfd5e9a",
+          "required": false,
+          "dataType": "@service",
+          "name": "service",
+          "value": "$service",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "f6f991cd-260c-4ae2-9d53-3f4cfebe672e",
+          "required": false,
+          "dataType": "@operation",
+          "name": "operation",
+          "value": "$operation",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "9646450c-dd44-487a-87a5-926634e69688",
+          "required": false,
+          "dataType": "@middlebox",
+          "name": "middlebox",
+          "value": "$middlebox",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "de8357d4-f4fe-41fa-acfd-b0a9e6077d64",
+          "required": false,
+          "dataType": "@qos_constraint",
+          "name": "qos_constraint",
+          "value": "$qos_constraint",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "9708ae48-f107-469b-874d-4f0637fb200b",
+          "required": false,
+          "dataType": "@start",
+          "name": "start",
+          "value": "$start",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "6d958696-7c2b-436a-9e3d-32028f98703f",
+          "required": false,
+          "dataType": "@protocol",
+          "name": "protocol",
+          "value": "$protocol",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "81dff91f-b318-4d51-be68-cd06d1eb4cca",
+          "required": false,
+          "dataType": "@traffic",
+          "name": "traffic",
+          "value": "$traffic",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "4fa8c57d-cb79-40c3-88a0-6c2227bd0322",
+          "required": false,
+          "dataType": "@end",
+          "name": "end",
+          "value": "$end",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": false
+        },
+        {
+          "id": "f03bf0b8-5ec4-45a3-bf8f-354d6fb7210f",
+          "required": false,
+          "dataType": "@origin",
+          "name": "origin",
+          "value": "$origin",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        },
+        {
+          "id": "f5d02058-deb5-4def-a43e-fd947e5ee43e",
+          "required": false,
+          "dataType": "@destination",
+          "name": "destination",
+          "value": "$destination",
+          "prompts": [],
+          "defaultValue": "",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548957673,
+  "fallbackIntent": false,
+  "events": []
+}

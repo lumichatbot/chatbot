@@ -1,0 +1,45 @@
+[
+  {
+    "value": "news",
+    "synonyms": [
+      "news"
+    ]
+  },
+  {
+    "value": "streaming",
+    "synonyms": [
+      "video sites",
+      "streaming",
+      "music",
+      "videos",
+      "streaming traffic"
+    ]
+  },
+  {
+    "value": "peer2peer",
+    "synonyms": [
+      "peer2peer",
+      "torrent",
+      "peer to peer",
+      "peer-to-peer",
+      "torrent traffic",
+      "P2P application"
+    ]
+  },
+  {
+    "value": "social-media",
+    "synonyms": [
+      "social-media",
+      "social",
+      "social websites",
+      "social media"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "all traffic"
+    ]
+  }
+]

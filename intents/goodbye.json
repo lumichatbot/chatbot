@@ -1,0 +1,28 @@
+{
+  "id": "97e79f18-7407-4fb2-a848-d21e523a867d",
+  "name": "goodbye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "\u0027Great! Your configuration has been applied! See you later, aligator!\u0027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1531749514,
+  "fallbackIntent": false,
+  "events": []
+}

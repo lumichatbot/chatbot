@@ -1,0 +1,40 @@
+[
+  {
+    "value": "bandwidth",
+    "synonyms": [
+      "bandwidth",
+      "speed",
+      "throughput",
+      "link",
+      "rate limit",
+      "limit",
+      "rate",
+      "bandwidth rate limit",
+      "rate limits",
+      "rate limiting",
+      "is limited to",
+      "capped at",
+      "is rate-limited to",
+      "download rate",
+      "upload rate",
+      "bandwidth consumption limit",
+      "cap"
+    ]
+  },
+  {
+    "value": "quota",
+    "synonyms": [
+      "quota",
+      "data plan",
+      "usage limit",
+      "reach",
+      "reached",
+      "should use more than",
+      "data transfer limit",
+      "may use",
+      "may use up to",
+      "should not use more than",
+      "cap"
+    ]
+  }
+]

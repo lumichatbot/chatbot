@@ -1,0 +1,39 @@
+[
+  {
+    "value": "min",
+    "synonyms": [
+      "min"
+    ]
+  },
+  {
+    "value": "max",
+    "synonyms": [
+      "max",
+      "limit",
+      "limited",
+      "capped",
+      "capped at"
+    ]
+  },
+  {
+    "value": "download",
+    "synonyms": [
+      "download",
+      "downstream",
+      "Download",
+      "inbound",
+      "incoming"
+    ]
+  },
+  {
+    "value": "upload",
+    "synonyms": [
+      "upload",
+      "upstream",
+      "Upload",
+      "uploading",
+      "outbound",
+      "outgoing"
+    ]
+  }
+]

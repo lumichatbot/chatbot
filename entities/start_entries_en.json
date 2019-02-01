@@ -1,0 +1,44 @@
+[
+  {
+    "value": "starting at @hour:hour",
+    "synonyms": [
+      "starting at @hour:hour"
+    ]
+  },
+  {
+    "value": "from @hour:hour",
+    "synonyms": [
+      "from @hour:hour"
+    ]
+  },
+  {
+    "value": "start at @hour:hour",
+    "synonyms": [
+      "start at @hour:hour"
+    ]
+  },
+  {
+    "value": "on @hour:hour",
+    "synonyms": [
+      "on @hour:hour"
+    ]
+  },
+  {
+    "value": "on 10 AM",
+    "synonyms": [
+      "on 10 AM"
+    ]
+  },
+  {
+    "value": "from 13:30",
+    "synonyms": [
+      "from 13:30"
+    ]
+  },
+  {
+    "value": "from 23:59",
+    "synonyms": [
+      "from 23:59"
+    ]
+  }
+]

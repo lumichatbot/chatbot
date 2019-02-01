@@ -1,0 +1,53 @@
+[
+  {
+    "value": "students",
+    "synonyms": [
+      "students",
+      "undergrads",
+      "scholar",
+      "all students",
+      "resident"
+    ]
+  },
+  {
+    "value": "professors",
+    "synonyms": [
+      "professors",
+      "teachers",
+      "prof",
+      "all teachers",
+      "all professors",
+      "all prof"
+    ]
+  },
+  {
+    "value": "staff",
+    "synonyms": [
+      "staff",
+      "faculty",
+      "for all staff",
+      "Staff members"
+    ]
+  },
+  {
+    "value": "consumers",
+    "synonyms": [
+      "consumers"
+    ]
+  },
+  {
+    "value": "users",
+    "synonyms": [
+      "users",
+      "user",
+      "network users"
+    ]
+  },
+  {
+    "value": "guests",
+    "synonyms": [
+      "guests",
+      "Guests\u0027 network"
+    ]
+  }
+]

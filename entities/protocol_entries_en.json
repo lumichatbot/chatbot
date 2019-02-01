@@ -1,0 +1,74 @@
+[
+  {
+    "value": "udp",
+    "synonyms": [
+      "udp"
+    ]
+  },
+  {
+    "value": "tcp",
+    "synonyms": [
+      "tcp"
+    ]
+  },
+  {
+    "value": "http",
+    "synonyms": [
+      "http"
+    ]
+  },
+  {
+    "value": "https",
+    "synonyms": [
+      "https"
+    ]
+  },
+  {
+    "value": "smtp",
+    "synonyms": [
+      "smtp"
+    ]
+  },
+  {
+    "value": "quic",
+    "synonyms": [
+      "quic"
+    ]
+  },
+  {
+    "value": "ftp",
+    "synonyms": [
+      "ftp"
+    ]
+  },
+  {
+    "value": "dns",
+    "synonyms": [
+      "dns"
+    ]
+  },
+  {
+    "value": "snmp",
+    "synonyms": [
+      "snmp"
+    ]
+  },
+  {
+    "value": "sftp",
+    "synonyms": [
+      "sftp"
+    ]
+  },
+  {
+    "value": "ssh",
+    "synonyms": [
+      "ssh"
+    ]
+  },
+  {
+    "value": "rtsp",
+    "synonyms": [
+      "rtsp"
+    ]
+  }
+]

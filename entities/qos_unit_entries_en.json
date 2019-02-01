@@ -1,0 +1,88 @@
+[
+  {
+    "value": "kbps",
+    "synonyms": [
+      "Kbps",
+      "kbps"
+    ]
+  },
+  {
+    "value": "mbps",
+    "synonyms": [
+      "mbps",
+      "megabits per seconds",
+      "megabit per second",
+      "Mbps",
+      "Mb/s"
+    ]
+  },
+  {
+    "value": "gbps",
+    "synonyms": [
+      "gbps",
+      "gigabit per second",
+      "gigabit per seconds"
+    ]
+  },
+  {
+    "value": "mb/wk",
+    "synonyms": [
+      "mb/wk",
+      "megabyte per week",
+      "mb per week",
+      "mb every week",
+      "megabyte every week"
+    ]
+  },
+  {
+    "value": "gb/wk",
+    "synonyms": [
+      "gb/wk",
+      "gb per week",
+      "gigabyte per week",
+      "gigabyte every week",
+      "gb every week",
+      "gigabytes of bandwidth per week",
+      "GB of data weekly",
+      "gigabytes per each 7 day period"
+    ]
+  },
+  {
+    "value": "gb",
+    "synonyms": [
+      "gb",
+      "gigabyte",
+      "Gigabytes"
+    ]
+  },
+  {
+    "value": "mb/hr",
+    "synonyms": [
+      "mb/hr",
+      "megabyte per hour",
+      "Megabytes per hour",
+      "Megabyte/hr",
+      "megabyte/hr",
+      "Megabyte per hour"
+    ]
+  },
+  {
+    "value": "gb/d",
+    "synonyms": [
+      "gb/d",
+      "gigabytes of bandwidth per day",
+      "GB per 24-hour period",
+      "GB a day"
+    ]
+  },
+  {
+    "value": "gb/mth",
+    "synonyms": [
+      "gb/mth",
+      "Gb per month",
+      "GB per month",
+      "GB monthly",
+      "GB of Free monthly usage"
+    ]
+  }
+]

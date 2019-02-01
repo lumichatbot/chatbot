@@ -1,0 +1,41 @@
+[
+  {
+    "value": "location",
+    "synonyms": [
+      "location",
+      "place"
+    ]
+  },
+  {
+    "value": "middlebox",
+    "synonyms": [
+      "middlebox",
+      "virtual network function",
+      "network function"
+    ]
+  },
+  {
+    "value": "traffic",
+    "synonyms": [
+      "traffic",
+      "type of traffic",
+      "flow"
+    ]
+  },
+  {
+    "value": "service",
+    "synonyms": [
+      "service",
+      "website",
+      "internet application"
+    ]
+  },
+  {
+    "value": "group",
+    "synonyms": [
+      "group",
+      "grouping",
+      "aggregate"
+    ]
+  }
+]

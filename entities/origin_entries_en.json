@@ -1,0 +1,80 @@
+[
+  {
+    "value": "start at @location:location",
+    "synonyms": [
+      "start at @location:location"
+    ]
+  },
+  {
+    "value": "starting at @location:location",
+    "synonyms": [
+      "starting at @location:location"
+    ]
+  },
+  {
+    "value": "from @location:location",
+    "synonyms": [
+      "from @location:location"
+    ]
+  },
+  {
+    "value": "from my @location:location",
+    "synonyms": [
+      "from my @location:location"
+    ]
+  },
+  {
+    "value": "from the @location:location",
+    "synonyms": [
+      "from the @location:location"
+    ]
+  },
+  {
+    "value": "from a @location:location",
+    "synonyms": [
+      "from a @location:location"
+    ]
+  },
+  {
+    "value": "from the @service:service",
+    "synonyms": [
+      "from the @service:service"
+    ]
+  },
+  {
+    "value": "from @service:service",
+    "synonyms": [
+      "from @service:service"
+    ]
+  },
+  {
+    "value": "start at @service:service",
+    "synonyms": [
+      "start at @service:service"
+    ]
+  },
+  {
+    "value": "coming from @service:service",
+    "synonyms": [
+      "coming from @service:service"
+    ]
+  },
+  {
+    "value": "originated from @service:service",
+    "synonyms": [
+      "originated from @service:service"
+    ]
+  },
+  {
+    "value": "between @location:location ",
+    "synonyms": [
+      "between @location:location "
+    ]
+  },
+  {
+    "value": "@location:location traffic",
+    "synonyms": [
+      "@location:location traffic"
+    ]
+  }
+]

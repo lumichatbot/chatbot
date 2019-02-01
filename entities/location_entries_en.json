@@ -1,0 +1,224 @@
+[
+  {
+    "value": "UFRGS",
+    "synonyms": [
+      "UFRGS",
+      "Federal Unversity of Rio Grande do Sul"
+    ]
+  },
+  {
+    "value": "university",
+    "synonyms": [
+      "university"
+    ]
+  },
+  {
+    "value": "house",
+    "synonyms": [
+      "house"
+    ]
+  },
+  {
+    "value": "PUCRS",
+    "synonyms": [
+      "PUC",
+      "PUCRS"
+    ]
+  },
+  {
+    "value": "ps4",
+    "synonyms": [
+      "ps4",
+      "videogame",
+      "playstation",
+      "playstation 4",
+      "PlayStation"
+    ]
+  },
+  {
+    "value": "marketing",
+    "synonyms": [
+      "marketing",
+      "marketing department"
+    ]
+  },
+  {
+    "value": "r\u0026d",
+    "synonyms": [
+      "r\u0026d",
+      "r\u0026d division",
+      "programming divinsion",
+      "development",
+      "development division"
+    ]
+  },
+  {
+    "value": "database",
+    "synonyms": [
+      "database",
+      "base of data",
+      "data"
+    ]
+  },
+  {
+    "value": "pc",
+    "synonyms": [
+      "pc",
+      "my pc",
+      "my computer",
+      "personal computer"
+    ]
+  },
+  {
+    "value": "macbook",
+    "synonyms": [
+      "macbook",
+      "my macbook",
+      "my mac"
+    ]
+  },
+  {
+    "value": "dorms",
+    "synonyms": [
+      "dorms",
+      "domitories",
+      "student dorms",
+      "housing",
+      "student housing",
+      "resident",
+      "residents",
+      "ResNet"
+    ]
+  },
+  {
+    "value": "backend",
+    "synonyms": [
+      "backend",
+      "backend server",
+      "backend servers",
+      "servers"
+    ]
+  },
+  {
+    "value": "gateway",
+    "synonyms": [
+      "gateway",
+      "network gateway",
+      "entry",
+      "entrypoint",
+      "internet",
+      "external"
+    ]
+  },
+  {
+    "value": "network",
+    "synonyms": [
+      "network",
+      "system",
+      "my network",
+      "wired/wireless network",
+      "wired network",
+      "wireless",
+      "wireless network"
+    ]
+  },
+  {
+    "value": "hosts",
+    "synonyms": [
+      "hosts",
+      "guests",
+      "individual",
+      "all hosts",
+      "host",
+      "computers"
+    ]
+  },
+  {
+    "value": "University of Illinois",
+    "synonyms": [
+      "University of Illinois"
+    ]
+  },
+  {
+    "value": "UIC wireless",
+    "synonyms": [
+      "UIC wireless-connected"
+    ]
+  },
+  {
+    "value": "University Housing",
+    "synonyms": [
+      "University Housing"
+    ]
+  },
+  {
+    "value": "HR",
+    "synonyms": [
+      "HR",
+      "HR department",
+      "human resources",
+      "Human Resources"
+    ]
+  },
+  {
+    "value": "labs",
+    "synonyms": [
+      "labs",
+      "laboratories"
+    ]
+  },
+  {
+    "value": "classrooms",
+    "synonyms": [
+      "classrooms",
+      "classroom",
+      "class"
+    ]
+  },
+  {
+    "value": "application",
+    "synonyms": [
+      "application",
+      "application servers"
+    ]
+  },
+  {
+    "value": "verizon",
+    "synonyms": [
+      "verizon",
+      "Verizon"
+    ]
+  },
+  {
+    "value": "at\u0026t",
+    "synonyms": [
+      "at\u0026t",
+      "AT\u0026T"
+    ]
+  },
+  {
+    "value": "campus",
+    "synonyms": [
+      "campus",
+      "entire campus"
+    ]
+  },
+  {
+    "value": "video server",
+    "synonyms": [
+      "video server"
+    ]
+  },
+  {
+    "value": "LAN",
+    "synonyms": [
+      "LAN"
+    ]
+  },
+  {
+    "value": "meeting room 23",
+    "synonyms": [
+      "meeting room 23"
+    ]
+  }
+]

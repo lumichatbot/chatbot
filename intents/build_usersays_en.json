@@ -1,0 +1,3366 @@
+[
+  {
+    "id": "c8f90057-7643-4884-8c7d-313509f2b798",
+    "data": [
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "security",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from entry",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to backend",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "972d2004-8a2f-4e5b-a74b-654f9b685cdf",
+    "data": [
+      {
+        "text": "Include",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parental control",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for PlayStation",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "b7a47df7-0153-4587-aeba-c27397649183",
+    "data": [
+      {
+        "text": "Lumi, please ",
+        "userDefined": false
+      },
+      {
+        "text": "install",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " an ",
+        "userDefined": false
+      },
+      {
+        "text": "email scanner",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for the gateway",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "6c232dfc-2829-483d-a0af-16a6d0bc69f3",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "200",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB of Free monthly usage",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "6fb9a034-c20e-42a1-abc8-35f3f00872a0",
+    "data": [
+      {
+        "text": "Lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "SIP traffic",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from 19:00",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 08:00",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for dorms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "0e5aae34-fcbc-4cef-8808-9c2449596d60",
+    "data": [
+      {
+        "text": "Guests\u0027",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " network ",
+        "userDefined": false
+      },
+      {
+        "text": "is rate-limited to",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mb/s",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " per user",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "756da0e9-4719-48f3-905d-36fcf4da88e2",
+    "data": [
+      {
+        "text": "Prioritize",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Netflix",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "from 18:00",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to midnight",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "7a62ab10-c47e-49e9-910a-78414b4d6a5c",
+    "data": [
+      {
+        "text": "Add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "firewall",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from gateway",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to my house",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from 06:00",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 21:00",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "ca40cc05-be2d-4b74-881f-6ce9f9aab7e4",
+    "data": [
+      {
+        "text": "Faculty members",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " have ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gb per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " of free network use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "f16ede11-6db5-4488-826b-ece02b98ec0f",
+    "data": [
+      {
+        "text": "Forward",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all the external",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "to DMZ",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "c5e66f52-2948-42dd-8c46-b756f69d73e2",
+    "data": [
+      {
+        "text": "Block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "from netflix",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to my house",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "d5b5169c-ef51-42f4-b73c-6cddffc7177c",
+    "data": [
+      {
+        "text": "The system passively ",
+        "userDefined": false
+      },
+      {
+        "text": "monitors",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "the network",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " throughput when traffic is light",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "a0a66be1-4c95-4aa8-806e-39ce35a8cbdb",
+    "data": [
+      {
+        "text": "Block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " all incoming ",
+        "userDefined": false
+      },
+      {
+        "text": "HTTP",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      },
+      {
+        "text": " traffic, ",
+        "userDefined": false
+      },
+      {
+        "text": "allow",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " only ",
+        "userDefined": false
+      },
+      {
+        "text": "HTTPS",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for all hosts",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "a677b7f7-f970-4faf-a87d-0f12ab072c18",
+    "data": [
+      {
+        "text": "Lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "VoIP",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " traffic",
+        "userDefined": false
+      },
+      {
+        "text": "from 23:59",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 06:00",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "0479c2db-35b2-40a3-a09d-8010eeb4370f",
+    "data": [
+      {
+        "text": "Add ",
+        "userDefined": false
+      },
+      {
+        "text": "monitor",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for the university",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from 04:00",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 22:00",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "3c5db492-574e-41bd-9243-d78d0a3699d2",
+    "data": [
+      {
+        "text": "Dorms traffic",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to internet",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "must pass through",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "firewall",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "70d0180d-2db5-4298-9a99-d555eba575cc",
+    "data": [
+      {
+        "text": "Deny",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "SSH",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      },
+      {
+        "text": " access ",
+        "userDefined": false
+      },
+      {
+        "text": "to students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "94081522-b18e-46bc-9ee8-c4686bab8c49",
+    "data": [
+      {
+        "text": "University Housing",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "monitors",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " only the amount of traffic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "9676073d-945e-440d-98a8-a6eb7e1c5923",
+    "data": [
+      {
+        "text": "Please ",
+        "userDefined": false
+      },
+      {
+        "text": "allow",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "social media",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for the HR department",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "5ae1cf52-f010-405d-9a7b-12a0d106b558",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "should not use more than",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "five",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gigabytes of bandwidth per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "8dcb53f0-7215-4034-9dfc-3083b16bebe2",
+    "data": [
+      {
+        "text": "Dismiss",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rate limiting",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for faculty members",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "ebe2a7ff-947e-461c-b261-ecfa6aa58a52",
+    "data": [
+      {
+        "text": "Remove",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "firewall",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from the university",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to my house",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "62221e73-e845-4fae-b5b9-dbc264bd3e76",
+    "data": [
+      {
+        "text": "Internet ",
+        "userDefined": false
+      },
+      {
+        "text": "is limited to",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "per host",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "760c8231-5643-4635-8b99-25f40ae406f0",
+    "data": [
+      {
+        "text": "Prioritize",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "VoIP",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "on the meeting room 23",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from 13:30",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 14:30",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "7a9726d8-d783-4065-bede-e05be6b71853",
+    "data": [
+      {
+        "text": "Set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "users",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bandwidth",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "kbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " when the ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gb per month",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " is reached",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "b47f216e-f311-4f47-9ce9-770d8b8cfa44",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "shaping",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "gateway",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " everyday ",
+        "userDefined": false
+      },
+      {
+        "text": "from 18:00",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to midnight",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "0741b271-fb90-4609-9d22-74c6d448182f",
+    "data": [
+      {
+        "text": "FTP",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "SFTP",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      },
+      {
+        "text": " traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "is allowed",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for all students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "5d927a48-c3df-4066-bd66-7744c70e85eb",
+    "data": [
+      {
+        "text": "Reduce",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "download rate",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for faculty members",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "20",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "bca60fb5-fe15-4628-ae58-6f29e8ac0615",
+    "data": [
+      {
+        "text": "Do not let",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Staff members",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " access any ",
+        "userDefined": false
+      },
+      {
+        "text": "social media",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "467de5a4-2c0a-4d96-ae4a-052b4e2b3be9",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cannot run",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "file servers",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "afed37bd-6fe9-4a7e-bed1-433b44b3eb61",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "data limit",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "1b17843f-beac-4626-85dc-8d43cfa223dc",
+    "data": [
+      {
+        "text": "Block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "torrent traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for all students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "f46c3185-332f-414d-8609-7505c1852b27",
+    "data": [
+      {
+        "text": "Grant",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "SSH",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      },
+      {
+        "text": " access ",
+        "userDefined": false
+      },
+      {
+        "text": "to professors",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "59386dd2-a119-4186-9f5d-ff657ffa4817",
+    "data": [
+      {
+        "text": "From university ",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": "to internet ",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "firewall",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "3b328179-b7f1-455b-a196-933c506da634",
+    "data": [
+      {
+        "text": "Allow",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "RTSP",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      },
+      {
+        "text": " traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "in the LAN",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "975367ca-aa56-4aa4-a3aa-03e8609c5ece",
+    "data": [
+      {
+        "text": "Guests",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cannot run",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " any ",
+        "userDefined": false
+      },
+      {
+        "text": "file sharing",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      },
+      {
+        "text": "/downloading program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "7b3d5b5d-67c1-4d9b-8b5f-b60f81162662",
+    "data": [
+      {
+        "text": "Lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "prohibit",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " access ",
+        "userDefined": false
+      },
+      {
+        "text": "to internal campus computers",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from the internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "66027b0c-6276-4fde-81e2-3f2b020ac597",
+    "data": [
+      {
+        "text": "Balance",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " traffic coming ",
+        "userDefined": false
+      },
+      {
+        "text": "from gateway",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to application servers",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "e4827364-0f3a-4467-a048-a5144202dad4",
+    "data": [
+      {
+        "text": "Remove",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "load balancing",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from gateway",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to database",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "4378e6cf-4fc2-44d7-99f6-901a7df2ec39",
+    "data": [
+      {
+        "text": "There is a ",
+        "userDefined": false
+      },
+      {
+        "text": "6",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per 24-hour period",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "upload",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "download",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "data transfer limit",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "starting at midnight",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " of each day, on all of your combined traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "on ResNet",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " and UIC wireless",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "f882ca62-9d7d-4f5c-ba7f-bc608d599ce4",
+    "data": [
+      {
+        "text": "Block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bittorrent",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for professors",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "e7dd0a48-325d-4a04-ac10-940854e9d2c1",
+    "data": [
+      {
+        "text": "No individual service or system running ",
+        "userDefined": false
+      },
+      {
+        "text": "on the wired/wireless network",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "should use more than",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gigabytes of per day",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": ", regardless of whether it is ",
+        "userDefined": false
+      },
+      {
+        "text": "inbound",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "outbound",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " over the commodity network link",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "fd4ddedb-f5f7-4c42-8724-0935e8702266",
+    "data": [
+      {
+        "text": "Add a ",
+        "userDefined": false
+      },
+      {
+        "text": "firewall",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "address translation",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "at\u0026t",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "verizon",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "e401969e-9a91-46dd-9b40-ae0790da7197",
+    "data": [
+      {
+        "text": "From gateway",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to network",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " middlebox ",
+        "userDefined": false
+      },
+      {
+        "text": "firewall",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "d3404ebe-5225-47b7-bf8d-b51821de3092",
+    "data": [
+      {
+        "text": "Quotas",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "5000",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Megabyte per hr",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "download",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "2000",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Megabyte per hr",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "upload",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "becb1ee1-6738-4c81-9e10-3fe87e9e7d59",
+    "data": [
+      {
+        "text": "Set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": "bandwidth limit",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " for the traffic ",
+        "userDefined": false
+      },
+      {
+        "text": " to DMZ",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "0c9ed6b2-2273-4d9d-b298-b6155747f695",
+    "data": [
+      {
+        "text": "Lumi, please ",
+        "userDefined": false
+      },
+      {
+        "text": "set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per day",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "download limit",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for guests",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "6c964e69-5da1-40ad-b74a-6414bef445d6",
+    "data": [
+      {
+        "text": "Allow",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " access ",
+        "userDefined": false
+      },
+      {
+        "text": "from computers",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to DMZ",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "b9a0eaab-14c0-45d3-bff2-dc47cf72d023",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "may use",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " up to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB of data weekly",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "4536f83c-cad7-4b04-ae3b-afd96c6e920b",
+    "data": [
+      {
+        "text": "Increase",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "bandwidth consumption limit",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for professors",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "7f044982-4d35-4eb0-a751-419f9b8aefde",
+    "data": [
+      {
+        "text": "Please add ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic shaper",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "between the internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and the dorms",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "5795aad1-ceeb-48ae-afd5-4f7c0df61673",
+    "data": [
+      {
+        "text": "Lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "setup",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "TCP accelerator",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "between LAN",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and video server",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "0172e00c-2c82-4a85-885a-6089d83ebb3c",
+    "data": [
+      {
+        "text": "From dorms",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to internet",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nat",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "5182074e-01f3-41a9-9d41-008208dc0f52",
+    "data": [
+      {
+        "text": "Block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "streaming",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "gaming",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " traffic",
+        "userDefined": false
+      },
+      {
+        "text": "in classrooms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "a1e27368-08dd-422a-a57b-8387622d91e2",
+    "data": [
+      {
+        "text": "From my house",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to PUCRS",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " middlebox ",
+        "userDefined": false
+      },
+      {
+        "text": "dpi",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "3c0b1471-fdd3-4ffa-a674-77d6391b9578",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB a day",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "download",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quotas",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " are ",
+        "userDefined": false
+      },
+      {
+        "text": "on 10 AM",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to Midnight",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "ff629920-a5b7-4d69-9e84-a7d3ac024081",
+    "data": [
+      {
+        "text": "The individual",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "will have",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bandwidth rate limit",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "8fbe6c50-b34f-4e14-8fb7-e0f0b9bf2865",
+    "data": [
+      {
+        "text": "Add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "parental control",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from my house",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to internet",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "9cce2b73-a0a6-447f-90f1-75d6f51afcbd",
+    "data": [
+      {
+        "text": "Add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "inspection",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for the university",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from 22:00",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 12:00",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "3112033b-7f48-4543-af2b-9e47c2ff3acc",
+    "data": [
+      {
+        "text": "When a total of ",
+        "userDefined": false
+      },
+      {
+        "text": "18",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gigabytes",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " of data is",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "reached",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "the individual",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "bandwidth rate limit",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "57d3ecc5-0240-446a-813d-b9dad9c2ccf9",
+    "data": [
+      {
+        "text": "Please, ",
+        "userDefined": false
+      },
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " netflix",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "on PUC",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "5c3c0c51-bbd3-4006-a48d-ae0bcf7c15bc",
+    "data": [
+      {
+        "text": "From gateway",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to my network",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "remove",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nat",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "f7051903-d4fa-4278-8b78-3fe18d20d113",
+    "data": [
+      {
+        "text": "P2P application",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " is separately ",
+        "userDefined": false
+      },
+      {
+        "text": "capped at",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "30",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Mbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for the entire campus",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "557727e6-f4e5-4162-80fb-a82dbc67ba74",
+    "data": [
+      {
+        "text": "Do no let",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " access ",
+        "userDefined": false
+      },
+      {
+        "text": "Netflix",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from the laboratories",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to the internet",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "a7c92d6f-fa7c-4248-aefa-a48ca712e5b2",
+    "data": [
+      {
+        "text": "Email",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      },
+      {
+        "text": " traffic ",
+        "userDefined": false
+      },
+      {
+        "text": "is allowed",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for Staff members",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "e182ce58-5e02-4456-b8ba-aaa78b9fe827",
+    "data": [
+      {
+        "text": "Block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from HR",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to the backend servers",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "3a264ea3-584d-400f-ae72-ae0d67cd50d1",
+    "data": [
+      {
+        "text": "Staff",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "is allowed to",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " access ",
+        "userDefined": false
+      },
+      {
+        "text": "ftp",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "74293c2f-ceb8-4c10-9849-09ef9f379093",
+    "data": [
+      {
+        "text": "Currently, ",
+        "userDefined": false
+      },
+      {
+        "text": "the University of Illinois",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "does not have any",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rate limits",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " set in place",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "aa7a3463-2ab5-4996-96ef-a5b186c8585b",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " have a ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per day",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": ". The ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " is reset at ",
+        "userDefined": false
+      },
+      {
+        "text": "6am",
+        "alias": "hour",
+        "meta": "@hour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "b92a991e-590f-4575-9f09-c4f1e96f5c7e",
+    "data": [
+      {
+        "text": "The system",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " will trigger an ",
+        "userDefined": false
+      },
+      {
+        "text": "overuse notification",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " if the ",
+        "userDefined": false
+      },
+      {
+        "text": " average for either ",
+        "userDefined": false
+      },
+      {
+        "text": "inbound",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " or ",
+        "userDefined": false
+      },
+      {
+        "text": "outbound",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " usage exceeds ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "e3abf600-2bf9-4951-974f-aa7be9baf546",
+    "data": [
+      {
+        "text": "Lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "allow",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " access ",
+        "userDefined": false
+      },
+      {
+        "text": "to internal campus computers",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from the internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "through SSH",
+        "alias": "protocol",
+        "meta": "@protocol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  },
+  {
+    "id": "368e5661-c328-443e-925d-e34ad4ab8eaf",
+    "data": [
+      {
+        "text": "CounterStrike server",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "blocked",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "by the University",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "firewall",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548957673
+  }
+]
