@@ -1,21 +1,26 @@
 [
   {
-    "value": "traffic shaping",
+    "value": "address translation",
     "synonyms": [
-      "traffic shaping",
-      "traffic shaper",
-      "shaping",
-      "prioritize",
-      "priority"
+      "address translation",
+      "nat",
+      "network address translation",
+      "translation"
     ]
   },
   {
-    "value": "intrusion detection",
+    "value": "all",
     "synonyms": [
-      "intrusion detection",
-      "intrusion detection system",
-      "ids",
-      "security"
+      "all",
+      "all middleboxes"
+    ]
+  },
+  {
+    "value": "copyright-monitoring",
+    "synonyms": [
+      "copyright",
+      "copyright violation",
+      "copyright-monitoring"
     ]
   },
   {
@@ -24,45 +29,8 @@
       "deep inspection",
       "deep packet inspection",
       "dpi",
-      "security",
-      "packet inspection"
-    ]
-  },
-  {
-    "value": "parental control",
-    "synonyms": [
-      "parental control",
-      "parent inspection",
-      "children protection",
-      "content control",
-      "child protection"
-    ]
-  },
-  {
-    "value": "address translation",
-    "synonyms": [
-      "address translation",
-      "network address translation",
-      "translation",
-      "nat"
-    ]
-  },
-  {
-    "value": "virtual private network",
-    "synonyms": [
-      "vpn",
-      "private netwok",
-      "privacy",
-      "tunneling"
-    ]
-  },
-  {
-    "value": "load balancer",
-    "synonyms": [
-      "load balancer",
-      "load balancing",
-      "balancing",
-      "Balance"
+      "packet inspection",
+      "security"
     ]
   },
   {
@@ -73,26 +41,21 @@
     ]
   },
   {
-    "value": "copyright-monitoring",
+    "value": "intrusion detection",
     "synonyms": [
-      "copyright-monitoring",
-      "copyright",
-      "copyright violation",
-      "copyright violation"
+      "ids",
+      "intrusion detection",
+      "intrusion detection system",
+      "security"
     ]
   },
   {
-    "value": "traffic monitor",
+    "value": "load balancer",
     "synonyms": [
-      "traffic monitor",
-      "system traffic monitor",
-      "network traffic monitor",
-      "network throughput monitor",
-      "using notification",
-      "overuse notification",
-      "quota",
-      "data limit",
-      "monitors"
+      "Balance",
+      "balancing",
+      "load balancer",
+      "load balancing"
     ]
   },
   {
@@ -102,10 +65,68 @@
     ]
   },
   {
-    "value": "all",
+    "value": "parental control",
     "synonyms": [
-      "all",
-      "all middleboxes"
+      "child protection",
+      "children protection",
+      "content control",
+      "parent inspection",
+      "parental control"
+    ]
+  },
+  {
+    "value": "traffic monitor",
+    "synonyms": [
+      "data limit",
+      "monitors",
+      "network throughput monitor",
+      "network traffic monitor",
+      "overuse notification",
+      "quota",
+      "system traffic monitor",
+      "traffic monitor",
+      "using notification"
+    ]
+  },
+  {
+    "value": "traffic shaping",
+    "synonyms": [
+      "prioritize",
+      "priority",
+      "shaping",
+      "traffic shaper",
+      "traffic shaping"
+    ]
+  },
+  {
+    "value": "virtual private network",
+    "synonyms": [
+      "privacy",
+      "private netwok",
+      "tunneling",
+      "vpn"
+    ]
+  },
+  {
+    "value": "intrusion prevention",
+    "synonyms": [
+      "intrusion prevention",
+      "ips",
+      "intrusion prevention system"
+    ]
+  },
+  {
+    "value": "unit firewall",
+    "synonyms": [
+      "unit firewall",
+      "custom unit firewall"
+    ]
+  },
+  {
+    "value": "network border system",
+    "synonyms": [
+      "network border system",
+      "network border infrastructure system"
     ]
   }
 ]

@@ -1,128 +1,8 @@
 [
   {
-    "value": "for @group:group",
-    "synonyms": [
-      "for @group:group"
-    ]
-  },
-  {
-    "value": "the @group:group `s",
-    "synonyms": [
-      "the @group:group `s"
-    ]
-  },
-  {
-    "value": "the @group:group",
-    "synonyms": [
-      "the @group:group"
-    ]
-  },
-  {
     "value": "@group:group",
     "synonyms": [
       "@group:group"
-    ]
-  },
-  {
-    "value": "the @location:location",
-    "synonyms": [
-      "the @location:location"
-    ]
-  },
-  {
-    "value": "for the @location:location",
-    "synonyms": [
-      "for the @location:location"
-    ]
-  },
-  {
-    "value": "for @location:location",
-    "synonyms": [
-      "for @location:location"
-    ]
-  },
-  {
-    "value": "on @location:location",
-    "synonyms": [
-      "on @location:location"
-    ]
-  },
-  {
-    "value": "and @location:location",
-    "synonyms": [
-      "and @location:location"
-    ]
-  },
-  {
-    "value": "a @group:group",
-    "synonyms": [
-      "a @group:group"
-    ]
-  },
-  {
-    "value": "or @location:location",
-    "synonyms": [
-      "or @location:location"
-    ]
-  },
-  {
-    "value": "by @location:location",
-    "synonyms": [
-      "by @location:location"
-    ]
-  },
-  {
-    "value": "by @group:group",
-    "synonyms": [
-      "by @group:group"
-    ]
-  },
-  {
-    "value": "on the @location:location",
-    "synonyms": [
-      "on the @location:location"
-    ]
-  },
-  {
-    "value": "in @location:location",
-    "synonyms": [
-      "in @location:location"
-    ]
-  },
-  {
-    "value": "to @location:location",
-    "synonyms": [
-      "to @location:location"
-    ]
-  },
-  {
-    "value": "to @group:group",
-    "synonyms": [
-      "to @group:group"
-    ]
-  },
-  {
-    "value": "per @location:location",
-    "synonyms": [
-      "per @location:location"
-    ]
-  },
-  {
-    "value": "and UIC wireless",
-    "synonyms": [
-      "and UIC wireless"
-    ]
-  },
-  {
-    "value": "on the wired/wireless network",
-    "synonyms": [
-      "on the wired/wireless network"
-    ]
-  },
-  {
-    "value": "by the University",
-    "synonyms": [
-      "by the University"
     ]
   },
   {
@@ -132,15 +12,135 @@
     ]
   },
   {
+    "value": "a @group:group",
+    "synonyms": [
+      "a @group:group"
+    ]
+  },
+  {
+    "value": "and @location:location",
+    "synonyms": [
+      "and @location:location"
+    ]
+  },
+  {
+    "value": "and UIC wireless",
+    "synonyms": [
+      "and UIC wireless"
+    ]
+  },
+  {
+    "value": "by @group:group",
+    "synonyms": [
+      "by @group:group"
+    ]
+  },
+  {
+    "value": "by @location:location",
+    "synonyms": [
+      "by @location:location"
+    ]
+  },
+  {
+    "value": "by the University",
+    "synonyms": [
+      "by the University"
+    ]
+  },
+  {
+    "value": "for @group:group",
+    "synonyms": [
+      "for @group:group"
+    ]
+  },
+  {
+    "value": "for @location:location",
+    "synonyms": [
+      "for @location:location"
+    ]
+  },
+  {
     "value": "for all users",
     "synonyms": [
       "for all users"
     ]
   },
   {
+    "value": "for the @location:location",
+    "synonyms": [
+      "for the @location:location"
+    ]
+  },
+  {
+    "value": "in @location:location",
+    "synonyms": [
+      "in @location:location"
+    ]
+  },
+  {
     "value": "in the LAN",
     "synonyms": [
       "in the LAN"
+    ]
+  },
+  {
+    "value": "on @location:location",
+    "synonyms": [
+      "on @location:location"
+    ]
+  },
+  {
+    "value": "on the @location:location",
+    "synonyms": [
+      "on the @location:location"
+    ]
+  },
+  {
+    "value": "on the wired/wireless network",
+    "synonyms": [
+      "on the wired/wireless network"
+    ]
+  },
+  {
+    "value": "or @location:location",
+    "synonyms": [
+      "or @location:location"
+    ]
+  },
+  {
+    "value": "per @location:location",
+    "synonyms": [
+      "per @location:location"
+    ]
+  },
+  {
+    "value": "the @group:group",
+    "synonyms": [
+      "the @group:group"
+    ]
+  },
+  {
+    "value": "the @group:group `s",
+    "synonyms": [
+      "the @group:group `s"
+    ]
+  },
+  {
+    "value": "the @location:location",
+    "synonyms": [
+      "the @location:location"
+    ]
+  },
+  {
+    "value": "to @group:group",
+    "synonyms": [
+      "to @group:group"
+    ]
+  },
+  {
+    "value": "to @location:location",
+    "synonyms": [
+      "to @location:location"
     ]
   }
 ]

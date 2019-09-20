@@ -3,5 +3,7 @@
   "name": "qos_constraint",
   "isOverridable": true,
   "isEnum": false,
-  "automatedExpansion": true
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
 }

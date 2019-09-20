@@ -23,6 +23,7 @@
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": [
             "Hmm, okay. Can you tell me what words I missed?",
             "Damn, sorry. What words did I miss?",
@@ -37,7 +38,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1540232602,
   "fallbackIntent": false,
-  "events": []
+  "events": [],
+  "conditionalResponses": []
 }

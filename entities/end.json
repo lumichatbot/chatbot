@@ -3,5 +3,7 @@
   "name": "end",
   "isOverridable": true,
   "isEnum": true,
-  "automatedExpansion": false
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
 }

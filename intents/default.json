@@ -6,13 +6,13 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": [
             "I didn\u0027t get that. Can you say it again?",
             "I missed what you said. Say it again?",
@@ -36,7 +36,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1521835536,
   "fallbackIntent": true,
-  "events": []
+  "events": [],
+  "conditionalResponses": []
 }

@@ -1,20 +1,38 @@
 [
   {
-    "value": "start at @location:location",
+    "value": "@location:location traffic",
     "synonyms": [
-      "start at @location:location"
+      "@location:location traffic"
     ]
   },
   {
-    "value": "starting at @location:location",
+    "value": "between @location:location ",
     "synonyms": [
-      "starting at @location:location"
+      "between @location:location "
+    ]
+  },
+  {
+    "value": "coming from @service:service",
+    "synonyms": [
+      "coming from @service:service"
     ]
   },
   {
     "value": "from @location:location",
     "synonyms": [
       "from @location:location"
+    ]
+  },
+  {
+    "value": "from @service:service",
+    "synonyms": [
+      "from @service:service"
+    ]
+  },
+  {
+    "value": "from a @location:location",
+    "synonyms": [
+      "from a @location:location"
     ]
   },
   {
@@ -30,33 +48,9 @@
     ]
   },
   {
-    "value": "from a @location:location",
-    "synonyms": [
-      "from a @location:location"
-    ]
-  },
-  {
     "value": "from the @service:service",
     "synonyms": [
       "from the @service:service"
-    ]
-  },
-  {
-    "value": "from @service:service",
-    "synonyms": [
-      "from @service:service"
-    ]
-  },
-  {
-    "value": "start at @service:service",
-    "synonyms": [
-      "start at @service:service"
-    ]
-  },
-  {
-    "value": "coming from @service:service",
-    "synonyms": [
-      "coming from @service:service"
     ]
   },
   {
@@ -66,15 +60,21 @@
     ]
   },
   {
-    "value": "between @location:location ",
+    "value": "start at @location:location",
     "synonyms": [
-      "between @location:location "
+      "start at @location:location"
     ]
   },
   {
-    "value": "@location:location traffic",
+    "value": "start at @service:service",
     "synonyms": [
-      "@location:location traffic"
+      "start at @service:service"
+    ]
+  },
+  {
+    "value": "starting at @location:location",
+    "synonyms": [
+      "starting at @location:location"
     ]
   }
 ]

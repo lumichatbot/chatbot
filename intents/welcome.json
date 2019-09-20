@@ -13,6 +13,7 @@
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": "Hello! I\u0027m here to help you make your network better!"
         }
       ],
@@ -23,7 +24,6 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1539797240,
   "fallbackIntent": false,
   "events": [
     {
@@ -35,5 +35,6 @@
     {
       "name": "GOOGLE_ASSISTANT_WELCOME"
     }
-  ]
+  ],
+  "conditionalResponses": []
 }

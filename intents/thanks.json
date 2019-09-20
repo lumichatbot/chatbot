@@ -12,6 +12,7 @@
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": [
             "You`re welcome",
             "Don`t mention it"
@@ -25,7 +26,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1531749355,
   "fallbackIntent": false,
-  "events": []
+  "events": [],
+  "conditionalResponses": []
 }

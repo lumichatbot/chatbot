@@ -1,8 +1,20 @@
 [
   {
+    "value": "end at @hour:hour",
+    "synonyms": [
+      "end at @hour:hour"
+    ]
+  },
+  {
     "value": "ending at @hour:hour",
     "synonyms": [
       "ending at @hour:hour"
+    ]
+  },
+  {
+    "value": "to 14:30",
+    "synonyms": [
+      "to 14:30"
     ]
   },
   {
@@ -12,21 +24,9 @@
     ]
   },
   {
-    "value": "end at @hour:hour",
-    "synonyms": [
-      "end at @hour:hour"
-    ]
-  },
-  {
     "value": "until @hour:hour",
     "synonyms": [
       "until @hour:hour"
-    ]
-  },
-  {
-    "value": "to 14:30",
-    "synonyms": [
-      "to 14:30"
     ]
   }
 ]

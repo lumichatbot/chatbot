@@ -1,21 +1,17 @@
 [
   {
-    "value": "UFRGS",
+    "value": "HR",
     "synonyms": [
-      "UFRGS",
-      "Federal Unversity of Rio Grande do Sul"
+      "HR",
+      "HR department",
+      "Human Resources",
+      "human resources"
     ]
   },
   {
-    "value": "university",
+    "value": "LAN",
     "synonyms": [
-      "university"
-    ]
-  },
-  {
-    "value": "house",
-    "synonyms": [
-      "house"
+      "LAN"
     ]
   },
   {
@@ -26,117 +22,10 @@
     ]
   },
   {
-    "value": "ps4",
+    "value": "UFRGS",
     "synonyms": [
-      "ps4",
-      "videogame",
-      "playstation",
-      "playstation 4",
-      "PlayStation"
-    ]
-  },
-  {
-    "value": "marketing",
-    "synonyms": [
-      "marketing",
-      "marketing department"
-    ]
-  },
-  {
-    "value": "r\u0026d",
-    "synonyms": [
-      "r\u0026d",
-      "r\u0026d division",
-      "programming divinsion",
-      "development",
-      "development division"
-    ]
-  },
-  {
-    "value": "database",
-    "synonyms": [
-      "database",
-      "base of data",
-      "data"
-    ]
-  },
-  {
-    "value": "pc",
-    "synonyms": [
-      "pc",
-      "my pc",
-      "my computer",
-      "personal computer"
-    ]
-  },
-  {
-    "value": "macbook",
-    "synonyms": [
-      "macbook",
-      "my macbook",
-      "my mac"
-    ]
-  },
-  {
-    "value": "dorms",
-    "synonyms": [
-      "dorms",
-      "domitories",
-      "student dorms",
-      "housing",
-      "student housing",
-      "resident",
-      "residents",
-      "ResNet"
-    ]
-  },
-  {
-    "value": "backend",
-    "synonyms": [
-      "backend",
-      "backend server",
-      "backend servers",
-      "servers"
-    ]
-  },
-  {
-    "value": "gateway",
-    "synonyms": [
-      "gateway",
-      "network gateway",
-      "entry",
-      "entrypoint",
-      "internet",
-      "external"
-    ]
-  },
-  {
-    "value": "network",
-    "synonyms": [
-      "network",
-      "system",
-      "my network",
-      "wired/wireless network",
-      "wired network",
-      "wireless",
-      "wireless network"
-    ]
-  },
-  {
-    "value": "hosts",
-    "synonyms": [
-      "hosts",
-      "guests",
-      "individual",
-      "all hosts",
-      "host",
-      "computers"
-    ]
-  },
-  {
-    "value": "University of Illinois",
-    "synonyms": [
-      "University of Illinois"
+      "Federal Unversity of Rio Grande do Sul",
+      "UFRGS"
     ]
   },
   {
@@ -152,27 +41,9 @@
     ]
   },
   {
-    "value": "HR",
+    "value": "University of Illinois",
     "synonyms": [
-      "HR",
-      "HR department",
-      "human resources",
-      "Human Resources"
-    ]
-  },
-  {
-    "value": "labs",
-    "synonyms": [
-      "labs",
-      "laboratories"
-    ]
-  },
-  {
-    "value": "classrooms",
-    "synonyms": [
-      "classrooms",
-      "classroom",
-      "class"
+      "University of Illinois"
     ]
   },
   {
@@ -183,17 +54,19 @@
     ]
   },
   {
-    "value": "verizon",
+    "value": "at\u0026t",
     "synonyms": [
-      "verizon",
-      "Verizon"
+      "AT\u0026T",
+      "at\u0026t"
     ]
   },
   {
-    "value": "at\u0026t",
+    "value": "backend",
     "synonyms": [
-      "at\u0026t",
-      "AT\u0026T"
+      "backend",
+      "backend server",
+      "backend servers",
+      "servers"
     ]
   },
   {
@@ -204,21 +77,181 @@
     ]
   },
   {
-    "value": "video server",
+    "value": "classrooms",
     "synonyms": [
-      "video server"
+      "class",
+      "classroom",
+      "classrooms"
     ]
   },
   {
-    "value": "LAN",
+    "value": "database",
     "synonyms": [
-      "LAN"
+      "base of data",
+      "data",
+      "database"
+    ]
+  },
+  {
+    "value": "dorms",
+    "synonyms": [
+      "ResNet",
+      "domitories",
+      "dorms",
+      "housing",
+      "resident",
+      "residents",
+      "student dorms",
+      "student housing"
+    ]
+  },
+  {
+    "value": "gateway",
+    "synonyms": [
+      "entry",
+      "entrypoint",
+      "external",
+      "gateway",
+      "internet",
+      "network gateway"
+    ]
+  },
+  {
+    "value": "hosts",
+    "synonyms": [
+      "all hosts",
+      "computers",
+      "guests",
+      "host",
+      "hosts",
+      "individual"
+    ]
+  },
+  {
+    "value": "house",
+    "synonyms": [
+      "house"
+    ]
+  },
+  {
+    "value": "labs",
+    "synonyms": [
+      "laboratories",
+      "labs"
+    ]
+  },
+  {
+    "value": "macbook",
+    "synonyms": [
+      "macbook",
+      "my mac",
+      "my macbook"
+    ]
+  },
+  {
+    "value": "marketing",
+    "synonyms": [
+      "marketing",
+      "marketing department"
     ]
   },
   {
     "value": "meeting room 23",
     "synonyms": [
       "meeting room 23"
+    ]
+  },
+  {
+    "value": "network",
+    "synonyms": [
+      "my network",
+      "network",
+      "system",
+      "wired network",
+      "wired/wireless network",
+      "wireless",
+      "wireless network"
+    ]
+  },
+  {
+    "value": "pc",
+    "synonyms": [
+      "my computer",
+      "my pc",
+      "pc",
+      "personal computer"
+    ]
+  },
+  {
+    "value": "ps4",
+    "synonyms": [
+      "PlayStation",
+      "playstation",
+      "playstation 4",
+      "ps4",
+      "videogame"
+    ]
+  },
+  {
+    "value": "r\u0026d",
+    "synonyms": [
+      "development",
+      "development division",
+      "programming divinsion",
+      "r\u0026d",
+      "r\u0026d division"
+    ]
+  },
+  {
+    "value": "university",
+    "synonyms": [
+      "university"
+    ]
+  },
+  {
+    "value": "verizon",
+    "synonyms": [
+      "Verizon",
+      "verizon"
+    ]
+  },
+  {
+    "value": "video server",
+    "synonyms": [
+      "video server"
+    ]
+  },
+  {
+    "value": "RHIT-OPEN",
+    "synonyms": [
+      "RHIT-OPEN",
+      "RHIT-OPEN wireless network"
+    ]
+  },
+  {
+    "value": "MITNet",
+    "synonyms": [
+      "MITNet"
+    ]
+  },
+  {
+    "value": "internal-network",
+    "synonyms": [
+      "the internal Rose-Hulman network",
+      "internal-network"
+    ]
+  },
+  {
+    "value": "UW network",
+    "synonyms": [
+      "UW network"
+    ]
+  },
+  {
+    "value": "NYURoam",
+    "synonyms": [
+      "NYURoam wireless networks",
+      "NYURoam"
     ]
   }
 ]

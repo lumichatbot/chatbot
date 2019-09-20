@@ -1,14 +1,14 @@
 [
   {
-    "value": "udp",
+    "value": "dns",
     "synonyms": [
-      "udp"
+      "dns"
     ]
   },
   {
-    "value": "tcp",
+    "value": "ftp",
     "synonyms": [
-      "tcp"
+      "ftp"
     ]
   },
   {
@@ -24,33 +24,15 @@
     ]
   },
   {
-    "value": "smtp",
-    "synonyms": [
-      "smtp"
-    ]
-  },
-  {
     "value": "quic",
     "synonyms": [
       "quic"
     ]
   },
   {
-    "value": "ftp",
+    "value": "rtsp",
     "synonyms": [
-      "ftp"
-    ]
-  },
-  {
-    "value": "dns",
-    "synonyms": [
-      "dns"
-    ]
-  },
-  {
-    "value": "snmp",
-    "synonyms": [
-      "snmp"
+      "rtsp"
     ]
   },
   {
@@ -60,15 +42,68 @@
     ]
   },
   {
+    "value": "smtp",
+    "synonyms": [
+      "smtp"
+    ]
+  },
+  {
+    "value": "snmp",
+    "synonyms": [
+      "snmp"
+    ]
+  },
+  {
     "value": "ssh",
     "synonyms": [
       "ssh"
     ]
   },
   {
-    "value": "rtsp",
+    "value": "tcp",
     "synonyms": [
-      "rtsp"
+      "tcp"
+    ]
+  },
+  {
+    "value": "udp",
+    "synonyms": [
+      "udp"
+    ]
+  },
+  {
+    "value": "imap",
+    "synonyms": [
+      "imap",
+      "IMAP"
+    ]
+  },
+  {
+    "value": "pop3",
+    "synonyms": [
+      "pop3",
+      "POP3"
+    ]
+  },
+  {
+    "value": "secure imap",
+    "synonyms": [
+      "secure imap",
+      "secure IMAP"
+    ]
+  },
+  {
+    "value": "secure pop",
+    "synonyms": [
+      "secure pop",
+      "secure POP"
+    ]
+  },
+  {
+    "value": "telnet",
+    "synonyms": [
+      "telnet",
+      "Telnet"
     ]
   }
 ]

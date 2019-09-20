@@ -3,5 +3,7 @@
   "name": "destination",
   "isOverridable": true,
   "isEnum": true,
-  "automatedExpansion": true
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
 }

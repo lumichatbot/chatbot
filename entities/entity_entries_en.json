@@ -1,5 +1,13 @@
 [
   {
+    "value": "group",
+    "synonyms": [
+      "aggregate",
+      "group",
+      "grouping"
+    ]
+  },
+  {
     "value": "location",
     "synonyms": [
       "location",
@@ -10,32 +18,24 @@
     "value": "middlebox",
     "synonyms": [
       "middlebox",
-      "virtual network function",
-      "network function"
-    ]
-  },
-  {
-    "value": "traffic",
-    "synonyms": [
-      "traffic",
-      "type of traffic",
-      "flow"
+      "network function",
+      "virtual network function"
     ]
   },
   {
     "value": "service",
     "synonyms": [
+      "internet application",
       "service",
-      "website",
-      "internet application"
+      "website"
     ]
   },
   {
-    "value": "group",
+    "value": "traffic",
     "synonyms": [
-      "group",
-      "grouping",
-      "aggregate"
+      "flow",
+      "traffic",
+      "type of traffic"
     ]
   }
 ]

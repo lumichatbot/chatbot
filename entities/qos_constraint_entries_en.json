@@ -1,39 +1,39 @@
 [
   {
+    "value": "download",
+    "synonyms": [
+      "Download",
+      "download",
+      "downstream",
+      "inbound",
+      "incoming"
+    ]
+  },
+  {
+    "value": "max",
+    "synonyms": [
+      "capped",
+      "capped at",
+      "limit",
+      "limited",
+      "max"
+    ]
+  },
+  {
     "value": "min",
     "synonyms": [
       "min"
     ]
   },
   {
-    "value": "max",
-    "synonyms": [
-      "max",
-      "limit",
-      "limited",
-      "capped",
-      "capped at"
-    ]
-  },
-  {
-    "value": "download",
-    "synonyms": [
-      "download",
-      "downstream",
-      "Download",
-      "inbound",
-      "incoming"
-    ]
-  },
-  {
     "value": "upload",
     "synonyms": [
-      "upload",
-      "upstream",
       "Upload",
-      "uploading",
       "outbound",
-      "outgoing"
+      "outgoing",
+      "upload",
+      "uploading",
+      "upstream"
     ]
   }
 ]

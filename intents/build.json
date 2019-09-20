@@ -21,8 +21,10 @@
           "dataType": "@target",
           "name": "target",
           "value": "$target",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -31,8 +33,10 @@
           "dataType": "@qos_metric",
           "name": "qos_metric",
           "value": "$qos_metric",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -41,8 +45,10 @@
           "dataType": "@qos_value",
           "name": "qos_value",
           "value": "$qos_value",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -51,8 +57,10 @@
           "dataType": "@qos_unit",
           "name": "qos_unit",
           "value": "$qos_unit",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -61,8 +69,10 @@
           "dataType": "@service",
           "name": "service",
           "value": "$service",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -71,8 +81,10 @@
           "dataType": "@operation",
           "name": "operation",
           "value": "$operation",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -81,8 +93,10 @@
           "dataType": "@middlebox",
           "name": "middlebox",
           "value": "$middlebox",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -91,8 +105,10 @@
           "dataType": "@qos_constraint",
           "name": "qos_constraint",
           "value": "$qos_constraint",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -101,8 +117,10 @@
           "dataType": "@start",
           "name": "start",
           "value": "$start",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -111,8 +129,10 @@
           "dataType": "@protocol",
           "name": "protocol",
           "value": "$protocol",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -121,8 +141,10 @@
           "dataType": "@traffic",
           "name": "traffic",
           "value": "$traffic",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -131,8 +153,10 @@
           "dataType": "@end",
           "name": "end",
           "value": "$end",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": false
         },
         {
@@ -141,8 +165,10 @@
           "dataType": "@origin",
           "name": "origin",
           "value": "$origin",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         },
         {
@@ -151,8 +177,10 @@
           "dataType": "@destination",
           "name": "destination",
           "value": "$destination",
-          "prompts": [],
-          "defaultValue": "",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
           "isList": true
         }
       ],
@@ -160,6 +188,7 @@
         {
           "type": 0,
           "lang": "en",
+          "condition": "",
           "speech": []
         }
       ],
@@ -170,7 +199,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1548957673,
   "fallbackIntent": false,
-  "events": []
+  "events": [],
+  "conditionalResponses": []
 }

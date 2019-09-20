@@ -1,47 +1,25 @@
 [
   {
-    "value": "netflix",
+    "value": "CounterStrike server",
     "synonyms": [
-      "Netflix"
+      "CS",
+      "CS server",
+      "Counter Strike",
+      "CounterStrike server"
     ]
   },
   {
     "value": "amazon-prime",
     "synonyms": [
       "Amazon",
-      "prime video",
-      "amazon prime video"
+      "amazon prime video",
+      "prime video"
     ]
   },
   {
     "value": "bittorrent",
     "synonyms": [
       "bittorrent"
-    ]
-  },
-  {
-    "value": "youtube",
-    "synonyms": [
-      "youtube"
-    ]
-  },
-  {
-    "value": "vimeo",
-    "synonyms": [
-      "vimeo"
-    ]
-  },
-  {
-    "value": "instagram",
-    "synonyms": [
-      "instagram"
-    ]
-  },
-  {
-    "value": "popcorn-time",
-    "synonyms": [
-      "popcorn-time",
-      "popcorn"
     ]
   },
   {
@@ -54,42 +32,164 @@
     ]
   },
   {
-    "value": "file sharing",
+    "value": "facebook",
     "synonyms": [
-      "file sharing",
-      "downloading",
-      "file share server",
-      "download server",
-      "file server"
+      "Facebook",
+      "facebook"
     ]
   },
   {
-    "value": "CounterStrike server",
+    "value": "file sharing",
     "synonyms": [
-      "CounterStrike server",
-      "CS server",
-      "CS",
-      "Counter Strike"
+      "download server",
+      "downloading",
+      "file server",
+      "file share server",
+      "file sharing"
+    ]
+  },
+  {
+    "value": "instagram",
+    "synonyms": [
+      "instagram"
     ]
   },
   {
     "value": "irc",
     "synonyms": [
-      "irc",
-      "IRC"
+      "IRC",
+      "irc"
     ]
   },
   {
-    "value": "facebook",
+    "value": "netflix",
     "synonyms": [
-      "facebook",
-      "Facebook"
+      "Netflix"
+    ]
+  },
+  {
+    "value": "popcorn-time",
+    "synonyms": [
+      "popcorn",
+      "popcorn-time"
     ]
   },
   {
     "value": "skype",
     "synonyms": [
       "skype"
+    ]
+  },
+  {
+    "value": "vimeo",
+    "synonyms": [
+      "vimeo"
+    ]
+  },
+  {
+    "value": "youtube",
+    "synonyms": [
+      "youtube"
+    ]
+  },
+  {
+    "value": "netbios",
+    "synonyms": [
+      "netbios"
+    ]
+  },
+  {
+    "value": "PlayStation 2",
+    "synonyms": [
+      "PlayStation 2",
+      "ps2"
+    ]
+  },
+  {
+    "value": "PC Telephone",
+    "synonyms": [
+      "PC-Telephone",
+      "pc-telephone",
+      "PC Telephone"
+    ]
+  },
+  {
+    "value": "H323 video conferencing",
+    "synonyms": [
+      "H323 video conferencing",
+      "video and audio conferencing products that use the H.323"
+    ]
+  },
+  {
+    "value": "AIM Chat",
+    "synonyms": [
+      "AIM Chat"
+    ]
+  },
+  {
+    "value": "file transfer",
+    "synonyms": [
+      "file transfer",
+      "file transfering"
+    ]
+  },
+  {
+    "value": "Battlenet",
+    "synonyms": [
+      "Battlenet",
+      "battlenet",
+      "blizzard battlenet"
+    ]
+  },
+  {
+    "value": "Everquest",
+    "synonyms": [
+      "Everquest",
+      "everquest"
+    ]
+  },
+  {
+    "value": "MSN video",
+    "synonyms": [
+      "MSN video"
+    ]
+  },
+  {
+    "value": "MSN audio",
+    "synonyms": [
+      "MSN audio"
+    ]
+  },
+  {
+    "value": "MSN chat",
+    "synonyms": [
+      "MSN chat",
+      "MSN"
+    ]
+  },
+  {
+    "value": "MSN application sharing",
+    "synonyms": [
+      "MSN application sharing"
+    ]
+  },
+  {
+    "value": "Net2Phone",
+    "synonyms": [
+      "Net2Phone",
+      "net2phone"
+    ]
+  },
+  {
+    "value": "Sorenson Videophone 200",
+    "synonyms": [
+      "Sorenson Videophone 200"
+    ]
+  },
+  {
+    "value": "NETBIOS",
+    "synonyms": [
+      "NETBIOS"
     ]
   }
 ]

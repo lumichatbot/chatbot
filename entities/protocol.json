@@ -3,5 +3,7 @@
   "name": "protocol",
   "isOverridable": true,
   "isEnum": false,
-  "automatedExpansion": true
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
 }
