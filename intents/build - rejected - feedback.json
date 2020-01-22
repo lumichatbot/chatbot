@@ -10,7 +10,7 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "build.build-rejected.feedback",
+      "action": "build.rejected.feedback",
       "affectedContexts": [
         {
           "name": "build-rejected-feedback-followup",
@@ -30,16 +30,6 @@
           "dataType": "@entity",
           "name": "entity",
           "value": "$entity",
-          "prompts": [
-            {
-              "lang": "en",
-              "value": "Hmm, okay. And type of entity is that?"
-            },
-            {
-              "lang": "en",
-              "value": "Can you tell me the type of entity that is? Is it a location, a middlebox or a type of traffic?"
-            }
-          ],
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -50,18 +40,8 @@
           "id": "0f50c905-fafd-4342-a405-4024a916d4d3",
           "required": true,
           "dataType": "@sys.any",
-          "name": "any",
-          "value": "$any",
-          "prompts": [
-            {
-              "lang": "en",
-              "value": "Okay, And what $entity do you want to add?"
-            },
-            {
-              "lang": "en",
-              "value": "Nice, and which $entity is that?"
-            }
-          ],
+          "name": "value",
+          "value": "$value",
           "promptMessages": [],
           "noMatchPromptMessages": [],
           "noInputPromptMessages": [],
@@ -83,8 +63,10 @@
   ],
   "priority": 500000,
   "webhookUsed": true,
-  "webhookForSlotFilling": false,
+  "webhookForSlotFilling": true,
   "fallbackIntent": false,
   "events": [],
-  "conditionalResponses": []
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
 }

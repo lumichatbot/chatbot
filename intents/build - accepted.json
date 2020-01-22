@@ -10,7 +10,7 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "build.build-accepted",
+      "action": "build.accepted",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -30,5 +30,7 @@
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [],
-  "conditionalResponses": []
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
 }

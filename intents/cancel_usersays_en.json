@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1239c61a-df09-4550-b159-a3902cd45045",
+    "data": [
+      {
+        "text": "Start over",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e19bbf3-2375-4d08-88e3-781dbb11d268",
+    "data": [
+      {
+        "text": "Please cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd2530de-a973-4a5d-8428-4d08bc51ef2b",
+    "data": [
+      {
+        "text": "Cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

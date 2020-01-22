@@ -13,7 +13,8 @@
       "GB a day",
       "GB per 24-hour period",
       "gb/d",
-      "gigabytes of bandwidth per day"
+      "gigabytes of bandwidth per day",
+      "GB of data in a day"
     ]
   },
   {
@@ -23,7 +24,8 @@
       "GB of Free monthly usage",
       "GB per month",
       "Gb per month",
-      "gb/mth"
+      "gb/mth",
+      "GB of data in a month"
     ]
   },
   {
@@ -36,7 +38,10 @@
       "gigabyte every week",
       "gigabyte per week",
       "gigabytes of bandwidth per week",
-      "gigabytes per each 7 day period"
+      "gigabytes per each 7 day period",
+      "GB of data in a week",
+      "gb per seven days",
+      "gigabyte per seven days"
     ]
   },
   {

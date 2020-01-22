@@ -1,6 +1,6 @@
 {
-  "id": "97e79f18-7407-4fb2-a848-d21e523a867d",
-  "name": "goodbye",
+  "id": "b7640aa2-25b7-4844-b539-e6f738a9ec29",
+  "name": "cancel",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,14 +13,14 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "See you later!"
+          "speech": "Okay, cancelled. Please start over."
         }
       ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
-  "priority": 500000,
+  "priority": 1000000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
   "fallbackIntent": false,

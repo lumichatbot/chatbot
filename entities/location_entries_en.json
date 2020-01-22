@@ -1,24 +1,15 @@
 [
   {
-    "value": "HR",
+    "value": "video server",
     "synonyms": [
-      "HR",
-      "HR department",
-      "Human Resources",
-      "human resources"
+      "video server"
     ]
   },
   {
-    "value": "LAN",
+    "value": "verizon",
     "synonyms": [
-      "LAN"
-    ]
-  },
-  {
-    "value": "PUCRS",
-    "synonyms": [
-      "PUC",
-      "PUCRS"
+      "verizon",
+      "Verizon"
     ]
   },
   {
@@ -29,209 +20,18 @@
     ]
   },
   {
-    "value": "UIC wireless",
-    "synonyms": [
-      "UIC wireless-connected"
-    ]
-  },
-  {
-    "value": "University Housing",
-    "synonyms": [
-      "University Housing"
-    ]
-  },
-  {
-    "value": "University of Illinois",
-    "synonyms": [
-      "University of Illinois"
-    ]
-  },
-  {
-    "value": "application",
-    "synonyms": [
-      "application",
-      "application servers"
-    ]
-  },
-  {
-    "value": "at\u0026t",
-    "synonyms": [
-      "AT\u0026T",
-      "at\u0026t"
-    ]
-  },
-  {
-    "value": "backend",
-    "synonyms": [
-      "backend",
-      "backend server",
-      "backend servers",
-      "servers"
-    ]
-  },
-  {
-    "value": "campus",
-    "synonyms": [
-      "campus",
-      "entire campus"
-    ]
-  },
-  {
-    "value": "classrooms",
-    "synonyms": [
-      "class",
-      "classroom",
-      "classrooms"
-    ]
-  },
-  {
-    "value": "database",
-    "synonyms": [
-      "base of data",
-      "data",
-      "database"
-    ]
-  },
-  {
-    "value": "dorms",
-    "synonyms": [
-      "ResNet",
-      "domitories",
-      "dorms",
-      "housing",
-      "resident",
-      "residents",
-      "student dorms",
-      "student housing"
-    ]
-  },
-  {
-    "value": "gateway",
-    "synonyms": [
-      "entry",
-      "entrypoint",
-      "external",
-      "gateway",
-      "internet",
-      "network gateway"
-    ]
-  },
-  {
-    "value": "hosts",
-    "synonyms": [
-      "all hosts",
-      "computers",
-      "guests",
-      "host",
-      "hosts",
-      "individual"
-    ]
-  },
-  {
-    "value": "house",
-    "synonyms": [
-      "house"
-    ]
-  },
-  {
-    "value": "labs",
-    "synonyms": [
-      "laboratories",
-      "labs"
-    ]
-  },
-  {
-    "value": "macbook",
-    "synonyms": [
-      "macbook",
-      "my mac",
-      "my macbook"
-    ]
-  },
-  {
-    "value": "marketing",
-    "synonyms": [
-      "marketing",
-      "marketing department"
-    ]
-  },
-  {
-    "value": "meeting room 23",
-    "synonyms": [
-      "meeting room 23"
-    ]
-  },
-  {
-    "value": "network",
-    "synonyms": [
-      "my network",
-      "network",
-      "system",
-      "wired network",
-      "wired/wireless network",
-      "wireless",
-      "wireless network"
-    ]
-  },
-  {
-    "value": "pc",
-    "synonyms": [
-      "my computer",
-      "my pc",
-      "pc",
-      "personal computer"
-    ]
-  },
-  {
-    "value": "ps4",
-    "synonyms": [
-      "PlayStation",
-      "playstation",
-      "playstation 4",
-      "ps4",
-      "videogame"
-    ]
-  },
-  {
-    "value": "r\u0026d",
-    "synonyms": [
-      "development",
-      "development division",
-      "programming divinsion",
-      "r\u0026d",
-      "r\u0026d division"
-    ]
-  },
-  {
     "value": "university",
     "synonyms": [
       "university"
     ]
   },
   {
-    "value": "verizon",
+    "value": "HR",
     "synonyms": [
-      "Verizon",
-      "verizon"
-    ]
-  },
-  {
-    "value": "video server",
-    "synonyms": [
-      "video server"
-    ]
-  },
-  {
-    "value": "RHIT-OPEN",
-    "synonyms": [
-      "RHIT-OPEN",
-      "RHIT-OPEN wireless network"
-    ]
-  },
-  {
-    "value": "MITNet",
-    "synonyms": [
-      "MITNet"
+      "HR",
+      "human resources",
+      "Human Resources",
+      "HR department"
     ]
   },
   {
@@ -242,9 +42,129 @@
     ]
   },
   {
+    "value": "house",
+    "synonyms": [
+      "house"
+    ]
+  },
+  {
+    "value": "network",
+    "synonyms": [
+      "wired/wireless network",
+      "system",
+      "wired network",
+      "wireless",
+      "wireless network",
+      "my network",
+      "network"
+    ]
+  },
+  {
+    "value": "ps4",
+    "synonyms": [
+      "ps4",
+      "playstation",
+      "PlayStation",
+      "videogame",
+      "playstation 4"
+    ]
+  },
+  {
+    "value": "PUCRS",
+    "synonyms": [
+      "PUCRS",
+      "PUC"
+    ]
+  },
+  {
+    "value": "database",
+    "synonyms": [
+      "database",
+      "base of data",
+      "data"
+    ]
+  },
+  {
+    "value": "servers",
+    "synonyms": [
+      "server",
+      "servers",
+      "server racks"
+    ]
+  },
+  {
+    "value": "MITNet",
+    "synonyms": [
+      "MITNet"
+    ]
+  },
+  {
+    "value": "macbook",
+    "synonyms": [
+      "my mac",
+      "my macbook",
+      "macbook"
+    ]
+  },
+  {
+    "value": "dorms",
+    "synonyms": [
+      "housing",
+      "dorms",
+      "student housing",
+      "domitories",
+      "residents",
+      "student dorms",
+      "resident"
+    ]
+  },
+  {
+    "value": "backend",
+    "synonyms": [
+      "backend servers",
+      "backend server",
+      "backend"
+    ]
+  },
+  {
     "value": "UW network",
     "synonyms": [
       "UW network"
+    ]
+  },
+  {
+    "value": "University of Illinois",
+    "synonyms": [
+      "University of Illinois"
+    ]
+  },
+  {
+    "value": "University Housing",
+    "synonyms": [
+      "University Housing"
+    ]
+  },
+  {
+    "value": "hosts",
+    "synonyms": [
+      "individual",
+      "hosts",
+      "host",
+      "all hosts",
+      "computers"
+    ]
+  },
+  {
+    "value": "campus",
+    "synonyms": [
+      "campus",
+      "entire campus"
+    ]
+  },
+  {
+    "value": "meeting room 23",
+    "synonyms": [
+      "meeting room 23"
     ]
   },
   {
@@ -252,6 +172,102 @@
     "synonyms": [
       "NYURoam wireless networks",
       "NYURoam"
+    ]
+  },
+  {
+    "value": "RHIT-OPEN",
+    "synonyms": [
+      "RHIT-OPEN wireless network",
+      "RHIT-OPEN"
+    ]
+  },
+  {
+    "value": "at\u0026t",
+    "synonyms": [
+      "att",
+      "ATT",
+      "AT and T",
+      "at and t",
+      "at\u0026t",
+      "AT\u0026T"
+    ]
+  },
+  {
+    "value": "r\u0026d",
+    "synonyms": [
+      "r\u0026d",
+      "development",
+      "r\u0026d division",
+      "programming divinsion",
+      "development division"
+    ]
+  },
+  {
+    "value": "marketing",
+    "synonyms": [
+      "marketing",
+      "marketing department"
+    ]
+  },
+  {
+    "value": "UIC wireless",
+    "synonyms": [
+      "UIC wireless-connected"
+    ]
+  },
+  {
+    "value": "pc",
+    "synonyms": [
+      "my pc",
+      "my computer",
+      "pc",
+      "personal computer"
+    ]
+  },
+  {
+    "value": "labs",
+    "synonyms": [
+      "labs",
+      "laboratories"
+    ]
+  },
+  {
+    "value": "application",
+    "synonyms": [
+      "application",
+      "application servers"
+    ]
+  },
+  {
+    "value": "LAN",
+    "synonyms": [
+      "LAN"
+    ]
+  },
+  {
+    "value": "classrooms",
+    "synonyms": [
+      "classroom",
+      "classrooms",
+      "class"
+    ]
+  },
+  {
+    "value": "gateway",
+    "synonyms": [
+      "entry",
+      "network gateway",
+      "external",
+      "entrypoint",
+      "gateway",
+      "internet"
+    ]
+  },
+  {
+    "value": "DMZ",
+    "synonyms": [
+      "DMZ",
+      "demilitarized zone"
     ]
   }
 ]

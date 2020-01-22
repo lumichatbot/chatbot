@@ -1,26 +1,8 @@
 [
   {
-    "value": "from 13:30",
-    "synonyms": [
-      "from 13:30"
-    ]
-  },
-  {
-    "value": "from 23:59",
-    "synonyms": [
-      "from 23:59"
-    ]
-  },
-  {
     "value": "from @hour:hour",
     "synonyms": [
       "from @hour:hour"
-    ]
-  },
-  {
-    "value": "on 10 AM",
-    "synonyms": [
-      "on 10 AM"
     ]
   },
   {
@@ -39,6 +21,12 @@
     "value": "starting at @hour:hour",
     "synonyms": [
       "starting at @hour:hour"
+    ]
+  },
+  {
+    "value": "between @hour:hour ",
+    "synonyms": [
+      "between @hour:hour "
     ]
   }
 ]

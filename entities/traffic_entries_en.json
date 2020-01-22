@@ -3,7 +3,8 @@
     "value": "all",
     "synonyms": [
       "all",
-      "all traffic"
+      "all traffic",
+      "traffic"
     ]
   },
   {
@@ -13,33 +14,33 @@
     ]
   },
   {
-    "value": "peer2peer",
+    "value": "streaming",
+    "synonyms": [
+      "streaming",
+      "music",
+      "video sites",
+      "videos",
+      "streaming traffic"
+    ]
+  },
+  {
+    "value": "torrent",
     "synonyms": [
       "P2P application",
+      "torrent traffic",
       "peer to peer",
-      "peer-to-peer",
       "peer2peer",
       "torrent",
-      "torrent traffic"
+      "peer-to-peer"
     ]
   },
   {
     "value": "social-media",
     "synonyms": [
       "social",
-      "social media",
       "social websites",
+      "social media",
       "social-media"
-    ]
-  },
-  {
-    "value": "streaming",
-    "synonyms": [
-      "music",
-      "streaming",
-      "streaming traffic",
-      "video sites",
-      "videos"
     ]
   }
 ]

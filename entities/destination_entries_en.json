@@ -18,33 +18,15 @@
     ]
   },
   {
-    "value": "ending at @service:service",
-    "synonyms": [
-      "ending at @service:service"
-    ]
-  },
-  {
     "value": "to @location:location",
     "synonyms": [
       "to @location:location"
     ]
   },
   {
-    "value": "to @service:service",
-    "synonyms": [
-      "to @service:service"
-    ]
-  },
-  {
     "value": "to a @location:location",
     "synonyms": [
       "to a @location:location"
-    ]
-  },
-  {
-    "value": "to a @service:service",
-    "synonyms": [
-      "to a @service:service"
     ]
   },
   {

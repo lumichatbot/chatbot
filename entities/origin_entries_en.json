@@ -12,21 +12,9 @@
     ]
   },
   {
-    "value": "coming from @service:service",
-    "synonyms": [
-      "coming from @service:service"
-    ]
-  },
-  {
     "value": "from @location:location",
     "synonyms": [
       "from @location:location"
-    ]
-  },
-  {
-    "value": "from @service:service",
-    "synonyms": [
-      "from @service:service"
     ]
   },
   {
@@ -48,27 +36,9 @@
     ]
   },
   {
-    "value": "from the @service:service",
-    "synonyms": [
-      "from the @service:service"
-    ]
-  },
-  {
-    "value": "originated from @service:service",
-    "synonyms": [
-      "originated from @service:service"
-    ]
-  },
-  {
     "value": "start at @location:location",
     "synonyms": [
       "start at @location:location"
-    ]
-  },
-  {
-    "value": "start at @service:service",
-    "synonyms": [
-      "start at @service:service"
     ]
   },
   {

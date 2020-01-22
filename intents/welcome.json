@@ -14,7 +14,10 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "Hello! I\u0027m here to help you make your network better!"
+          "speech": [
+            "Hello! I\u0027m here to help you manage your network!",
+            "Hi? How can I help you?"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -36,5 +39,7 @@
       "name": "GOOGLE_ASSISTANT_WELCOME"
     }
   ],
-  "conditionalResponses": []
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
 }

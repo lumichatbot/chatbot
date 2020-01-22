@@ -1,5 +1,5 @@
 {
-  "description": "",
+  "description": "A network configuration assistant",
   "language": "en",
   "shortDescription": "",
   "examples": "",
@@ -13,7 +13,9 @@
     "startIntents": [],
     "systemIntents": [],
     "endIntentIds": [
-      "97e79f18-7407-4fb2-a848-d21e523a867d"
+      "97e79f18-7407-4fb2-a848-d21e523a867d",
+      "490c91a7-520c-442b-8fb8-0f6c4ba13329",
+      "cd888366-ae3d-437a-971b-ced1e7308382"
     ],
     "oAuthLinking": {
       "required": false,
@@ -33,7 +35,7 @@
   },
   "defaultTimezone": "America/Buenos_Aires",
   "webhook": {
-    "url": "https://nia-proxy.herokuapp.com/proxy",
+    "url": "https://lumi-webhook.herokuapp.com/webhook",
     "username": "",
     "headers": {
       "": ""

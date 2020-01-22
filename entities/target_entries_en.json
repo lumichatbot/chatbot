@@ -6,12 +6,6 @@
     ]
   },
   {
-    "value": "Netflix",
-    "synonyms": [
-      "Netflix"
-    ]
-  },
-  {
     "value": "a @group:group",
     "synonyms": [
       "a @group:group"
@@ -21,12 +15,6 @@
     "value": "and @location:location",
     "synonyms": [
       "and @location:location"
-    ]
-  },
-  {
-    "value": "and UIC wireless",
-    "synonyms": [
-      "and UIC wireless"
     ]
   },
   {
@@ -42,12 +30,6 @@
     ]
   },
   {
-    "value": "by the University",
-    "synonyms": [
-      "by the University"
-    ]
-  },
-  {
     "value": "for @group:group",
     "synonyms": [
       "for @group:group"
@@ -57,12 +39,6 @@
     "value": "for @location:location",
     "synonyms": [
       "for @location:location"
-    ]
-  },
-  {
-    "value": "for all users",
-    "synonyms": [
-      "for all users"
     ]
   },
   {
@@ -78,12 +54,6 @@
     ]
   },
   {
-    "value": "in the LAN",
-    "synonyms": [
-      "in the LAN"
-    ]
-  },
-  {
     "value": "on @location:location",
     "synonyms": [
       "on @location:location"
@@ -93,12 +63,6 @@
     "value": "on the @location:location",
     "synonyms": [
       "on the @location:location"
-    ]
-  },
-  {
-    "value": "on the wired/wireless network",
-    "synonyms": [
-      "on the wired/wireless network"
     ]
   },
   {
@@ -141,6 +105,120 @@
     "value": "to @location:location",
     "synonyms": [
       "to @location:location"
+    ]
+  },
+  {
+    "value": "for @service:service ",
+    "synonyms": [
+      "for @service:service "
+    ]
+  },
+  {
+    "value": "from @service:service ",
+    "synonyms": [
+      "from @service:service "
+    ]
+  },
+  {
+    "value": "@service:service traffic",
+    "synonyms": [
+      "@service:service traffic"
+    ]
+  },
+  {
+    "value": "@service:service\u0027s traffic",
+    "synonyms": [
+      "@service:service\u0027s traffic"
+    ]
+  },
+  {
+    "value": "for @traffic:traffic",
+    "synonyms": [
+      "for @traffic:traffic"
+    ]
+  },
+  {
+    "value": "such as @traffic:traffic ",
+    "synonyms": [
+      "such as @traffic:traffic "
+    ]
+  },
+  {
+    "value": "for all @group:group ",
+    "synonyms": [
+      "for all @group:group "
+    ]
+  },
+  {
+    "value": "for all @service:service ",
+    "synonyms": [
+      "for all @service:service "
+    ]
+  },
+  {
+    "value": "for all @traffic:traffic ",
+    "synonyms": [
+      "for all @traffic:traffic "
+    ]
+  },
+  {
+    "value": "for all @location:location ",
+    "synonyms": [
+      "for all @location:location "
+    ]
+  },
+  {
+    "value": "@traffic:traffic ",
+    "synonyms": [
+      "@traffic:traffic "
+    ]
+  },
+  {
+    "value": "for @group:group members",
+    "synonyms": [
+      "for @group:group members"
+    ]
+  },
+  {
+    "value": "of @location:location ",
+    "synonyms": [
+      "of @location:location "
+    ]
+  },
+  {
+    "value": "of @group:group ",
+    "synonyms": [
+      "of @group:group "
+    ]
+  },
+  {
+    "value": "of @service:service ",
+    "synonyms": [
+      "of @service:service "
+    ]
+  },
+  {
+    "value": "of @traffic:traffic ",
+    "synonyms": [
+      "of @traffic:traffic "
+    ]
+  },
+  {
+    "value": "of the @location:location ",
+    "synonyms": [
+      "of the @location:location "
+    ]
+  },
+  {
+    "value": "from @group:group ",
+    "synonyms": [
+      "from @group:group "
+    ]
+  },
+  {
+    "value": "from @location:location ",
+    "synonyms": [
+      "from @location:location "
     ]
   }
 ]

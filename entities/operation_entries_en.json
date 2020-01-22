@@ -7,19 +7,28 @@
       "include",
       "increase",
       "must pass through",
-      "put"
+      "pass through",
+      "forward",
+      "forward through",
+      "affix"
     ]
   },
   {
     "value": "allow",
     "synonyms": [
-      "Permit",
       "allow",
       "allowed",
       "allowing",
       "grant",
       "let",
-      "permit"
+      "permit",
+      "let on",
+      "authorize",
+      "pass",
+      "admit",
+      "tolerate",
+      "do not block",
+      "must not be blocked"
     ]
   },
   {
@@ -32,7 +41,25 @@
       "cannot run",
       "deny",
       "do not let",
-      "may not run"
+      "may not run",
+      "prevent",
+      "stop",
+      "obstruct",
+      "cut off",
+      "deter",
+      "halt",
+      "intercept",
+      "impede",
+      "stall",
+      "thwart",
+      "hinder",
+      "hold up",
+      "close",
+      "close off",
+      "bar",
+      "barred",
+      "do not allow",
+      "must not be allowed"
     ]
   },
   {
@@ -40,7 +67,17 @@
     "synonyms": [
       "cut out",
       "delete",
-      "remove"
+      "remove",
+      "abolish",
+      "extract",
+      "clear away",
+      "discard",
+      "get rid of",
+      "detach",
+      "expel",
+      "take out",
+      "withdraw",
+      "exclude"
     ]
   },
   {
@@ -52,7 +89,10 @@
       "provide",
       "set",
       "settle",
-      "will have"
+      "will have",
+      "place",
+      "establish",
+      "put"
     ]
   },
   {

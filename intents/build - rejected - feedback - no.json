@@ -10,7 +10,7 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "build.build-rejected.feedback.confirm",
+      "action": "build.rejected.feedback.confirm",
       "affectedContexts": [
         {
           "name": "build-rejected-feedback-no-followup",
@@ -36,5 +36,7 @@
   "webhookForSlotFilling": false,
   "fallbackIntent": false,
   "events": [],
-  "conditionalResponses": []
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
 }

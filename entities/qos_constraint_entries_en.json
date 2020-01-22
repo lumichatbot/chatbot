@@ -16,13 +16,21 @@
       "capped at",
       "limit",
       "limited",
-      "max"
+      "max",
+      "maximum",
+      "cap",
+      "ceiling",
+      "at most",
+      "peak"
     ]
   },
   {
     "value": "min",
     "synonyms": [
-      "min"
+      "min",
+      "minimum",
+      "lowest amount",
+      "minimal"
     ]
   },
   {

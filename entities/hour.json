@@ -5,5 +5,5 @@
   "isEnum": false,
   "isRegexp": false,
   "automatedExpansion": false,
-  "allowFuzzyExtraction": false
+  "allowFuzzyExtraction": true
 }
