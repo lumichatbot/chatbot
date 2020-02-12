@@ -28,5 +28,29 @@
     "synonyms": [
       "between @hour:hour "
     ]
+  },
+  {
+    "value": "during @hour:hour ",
+    "synonyms": [
+      "during @hour:hour "
+    ]
+  },
+  {
+    "value": "interval @hour:hour",
+    "synonyms": [
+      "interval @hour:hour"
+    ]
+  },
+  {
+    "value": "start @hour:hour",
+    "synonyms": [
+      "start @hour:hour"
+    ]
+  },
+  {
+    "value": "for @hour:hour",
+    "synonyms": [
+      "for @hour:hour"
+    ]
   }
 ]

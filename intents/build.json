@@ -182,6 +182,18 @@
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
           "isList": false
+        },
+        {
+          "id": "52a08850-0764-4398-9771-81666cfa450a",
+          "required": false,
+          "dataType": "@group",
+          "name": "group",
+          "value": "$group",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [

@@ -42,6 +42,12 @@
     ]
   },
   {
+    "value": "Servers",
+    "synonyms": [
+      "Servers"
+    ]
+  },
+  {
     "value": "house",
     "synonyms": [
       "house"
@@ -99,6 +105,12 @@
     ]
   },
   {
+    "value": "China",
+    "synonyms": [
+      "China"
+    ]
+  },
+  {
     "value": "macbook",
     "synonyms": [
       "my mac",
@@ -109,6 +121,7 @@
   {
     "value": "dorms",
     "synonyms": [
+      "bedrooms",
       "housing",
       "dorms",
       "student housing",
@@ -130,6 +143,12 @@
     "value": "UW network",
     "synonyms": [
       "UW network"
+    ]
+  },
+  {
+    "value": "block just nintendo network",
+    "synonyms": [
+      "block just nintendo network"
     ]
   },
   {
@@ -193,6 +212,13 @@
     ]
   },
   {
+    "value": "DMZ",
+    "synonyms": [
+      "DMZ",
+      "demilitarized zone"
+    ]
+  },
+  {
     "value": "r\u0026d",
     "synonyms": [
       "r\u0026d",
@@ -228,7 +254,10 @@
     "value": "labs",
     "synonyms": [
       "labs",
-      "laboratories"
+      "laboratories",
+      "students labs",
+      "student laboratories",
+      "student labs"
     ]
   },
   {
@@ -241,7 +270,14 @@
   {
     "value": "LAN",
     "synonyms": [
+      "local area network",
       "LAN"
+    ]
+  },
+  {
+    "value": "guests",
+    "synonyms": [
+      "guests"
     ]
   },
   {
@@ -261,13 +297,6 @@
       "entrypoint",
       "gateway",
       "internet"
-    ]
-  },
-  {
-    "value": "DMZ",
-    "synonyms": [
-      "DMZ",
-      "demilitarized zone"
     ]
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
+    "value": "news",
+    "synonyms": [
+      "news"
+    ]
+  },
+  {
     "value": "all",
     "synonyms": [
       "all",
       "all traffic",
       "traffic"
-    ]
-  },
-  {
-    "value": "news",
-    "synonyms": [
-      "news"
     ]
   },
   {
@@ -32,6 +32,12 @@
       "peer2peer",
       "torrent",
       "peer-to-peer"
+    ]
+  },
+  {
+    "value": "students can download 10gb in dorms",
+    "synonyms": [
+      "students can download 10gb in dorms"
     ]
   },
   {

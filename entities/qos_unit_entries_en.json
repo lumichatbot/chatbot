@@ -14,7 +14,11 @@
       "GB per 24-hour period",
       "gb/d",
       "gigabytes of bandwidth per day",
-      "GB of data in a day"
+      "GB of data in a day",
+      "gb daily",
+      "gb day",
+      "gigabytes daily",
+      "gigabytes daily"
     ]
   },
   {
@@ -25,7 +29,11 @@
       "GB per month",
       "Gb per month",
       "gb/mth",
-      "GB of data in a month"
+      "GB of data in a month",
+      "gigabytes month",
+      "gigabytes monthly",
+      "gb month",
+      "gb monthly"
     ]
   },
   {
@@ -41,7 +49,12 @@
       "gigabytes per each 7 day period",
       "GB of data in a week",
       "gb per seven days",
-      "gigabyte per seven days"
+      "gigabyte per seven days",
+      "gb week",
+      "gb a week",
+      "gigabyte a week",
+      "gigabyte weekly",
+      "gb weekly"
     ]
   },
   {
@@ -88,6 +101,17 @@
       "mbps",
       "megabit per second",
       "megabits per seconds"
+    ]
+  },
+  {
+    "value": "gb/hr",
+    "synonyms": [
+      "gb/hr",
+      "gb per hour",
+      "gygabit per hour",
+      "GB per hour",
+      "GB of data in an hour",
+      "GB"
     ]
   }
 ]

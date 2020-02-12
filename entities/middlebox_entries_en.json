@@ -1,18 +1,18 @@
 [
   {
-    "value": "all",
-    "synonyms": [
-      "all",
-      "all middleboxes"
-    ]
-  },
-  {
     "value": "nat",
     "synonyms": [
       "nat",
       "address translation",
       "translation",
       "network address translation"
+    ]
+  },
+  {
+    "value": "all",
+    "synonyms": [
+      "all",
+      "all middleboxes"
     ]
   },
   {
@@ -31,21 +31,17 @@
     ]
   },
   {
-    "value": "dpi",
+    "value": "ips",
     "synonyms": [
-      "deep packet inspection",
-      "inspect",
-      "deep inspection",
-      "packet inspection",
-      "dpi"
+      "intrusion prevention",
+      "ips",
+      "intrusion prevention system"
     ]
   },
   {
-    "value": "ids",
+    "value": "For Dorms set download 10 gb/wk",
     "synonyms": [
-      "intrusion detection system",
-      "ids",
-      "intrusion detection"
+      "For Dorms set download 10 gb/wk"
     ]
   },
   {
@@ -53,13 +49,6 @@
     "synonyms": [
       "unit firewall",
       "custom unit firewall"
-    ]
-  },
-  {
-    "value": "network border system",
-    "synonyms": [
-      "network border system",
-      "network border infrastructure system"
     ]
   },
   {
@@ -73,6 +62,21 @@
     ]
   },
   {
+    "value": "network border system",
+    "synonyms": [
+      "network border system",
+      "network border infrastructure system"
+    ]
+  },
+  {
+    "value": "copyright monitoring",
+    "synonyms": [
+      "copyright",
+      "copyright violation",
+      "copyright-monitoring"
+    ]
+  },
+  {
     "value": "virtual private network",
     "synonyms": [
       "private netwok",
@@ -82,19 +86,21 @@
     ]
   },
   {
-    "value": "ips",
+    "value": "ids",
     "synonyms": [
-      "intrusion prevention",
-      "ips",
-      "intrusion prevention system"
+      "intrusion detection system",
+      "ids",
+      "intrusion detection"
     ]
   },
   {
-    "value": "copyright monitoring",
+    "value": "dpi",
     "synonyms": [
-      "copyright",
-      "copyright violation",
-      "copyright-monitoring"
+      "deep packet inspection",
+      "inspect",
+      "deep inspection",
+      "packet inspection",
+      "dpi"
     ]
   },
   {

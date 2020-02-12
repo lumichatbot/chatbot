@@ -28,5 +28,23 @@
     "synonyms": [
       "and @hour:hour "
     ]
+  },
+  {
+    "value": "finish at @hour:hour",
+    "synonyms": [
+      "finish at @hour:hour"
+    ]
+  },
+  {
+    "value": "finish @hour:hour",
+    "synonyms": [
+      "finish @hour:hour"
+    ]
+  },
+  {
+    "value": "finishing at @hour:hour",
+    "synonyms": [
+      "finishing at @hour:hour"
+    ]
   }
 ]

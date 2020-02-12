@@ -1,5 +1,2267 @@
 [
   {
+    "id": "a32a1263-2afe-41cf-93e3-e74ada88d23b",
+    "data": [
+      {
+        "text": "Lumi, for ",
+        "userDefined": false
+      },
+      {
+        "text": "the guest network",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "of torrent",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " protocol to ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebdce926-f3b5-4a26-abd8-e0cac0c2ce0a",
+    "data": [
+      {
+        "text": "unblock",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b787b3be-8457-4bf6-a15e-78f78f485ed7",
+    "data": [
+      {
+        "text": "unblock",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c2deca8-f887-439f-81ba-1f693f0487b0",
+    "data": [
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02e92cb6-fbbd-4fda-8957-a82f59a56d82",
+    "data": [
+      {
+        "text": "Block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "F2movies traffic",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from Internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to Labs",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0b91023-70b4-4e5c-bd2c-a9b1f62f3b27",
+    "data": [
+      {
+        "text": "Block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "F2movies traffic",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from Internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to student Labs",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b7e621d-e078-4cac-9c35-0d658e7ebdde",
+    "data": [
+      {
+        "text": "Add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "DPI",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "middlebox",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " into ",
+        "userDefined": false
+      },
+      {
+        "text": "all traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from Internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to the Labs",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2378fda9-0d37-413e-bb5e-05bed1e094bd",
+    "data": [
+      {
+        "text": "All traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from the Internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to the Labs",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " has to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "DPI",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "server",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " and then goes ",
+        "userDefined": false
+      },
+      {
+        "text": "to the Labs",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2616348-90c7-4a1b-9a1a-28435391b346",
+    "data": [
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dpi",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to labs",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "network",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee529bf3-7df4-4054-b841-bd2a00b6e43f",
+    "data": [
+      {
+        "text": "Hey Lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "DPI",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to the labs",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "network",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6a0c3c1-ca2e-4546-96a9-bdf8dca9894f",
+    "data": [
+      {
+        "text": "hey Lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dpi",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to labs",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96385f9e-22e7-4891-b042-102e7dbf668b",
+    "data": [
+      {
+        "text": "limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "servers",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bandwidth",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": true
+      },
+      {
+        "text": "gbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "between 4pm",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and 7pm",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac25a71f-b1fa-42b3-ab50-5574d9835482",
+    "data": [
+      {
+        "text": "unblock",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "facebook traffic",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d606010a-111e-48cf-b5ca-e8d1b4444444",
+    "data": [
+      {
+        "text": "allow",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e15c0e8-c4b1-4bbe-a170-cf1f962524e2",
+    "data": [
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " all ",
+        "userDefined": false
+      },
+      {
+        "text": "student",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "the network",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3b33e0d-469e-42f0-ab8f-f9820e3910d5",
+    "data": [
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " all ",
+        "userDefined": false
+      },
+      {
+        "text": "student",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ee0872b8-5355-4949-beda-bfbb1d504ace",
+    "data": [
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9a93f30-be7a-4ae5-8f00-ae2bcfeb0cb6",
+    "data": [
+      {
+        "text": "Limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "in the dorm",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65ae1060-5715-4d3f-bbb5-ddaf1cab0875",
+    "data": [
+      {
+        "text": "Make sure ",
+        "userDefined": false
+      },
+      {
+        "text": "all traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from the Internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to the labs",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "inspected",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " by the ",
+        "userDefined": false
+      },
+      {
+        "text": "DPI",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "middlebox",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "152a86cc-d174-4b27-8757-0e06ab9a6904",
+    "data": [
+      {
+        "text": "Between internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and servers",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": true
+      },
+      {
+        "text": "Gbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "start 16:00",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "finish 19:00",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "87480b70-385c-4ffc-b10f-0d195ec80a75",
+    "data": [
+      {
+        "text": "Between internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and servers",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": true
+      },
+      {
+        "text": "Gbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "interval 4pm",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 7pm",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38e86920-f689-41ad-b0c0-dbdc1f90aa4d",
+    "data": [
+      {
+        "text": "limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " the ",
+        "userDefined": false
+      },
+      {
+        "text": "bandwidth",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": "Gb",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " for rack ",
+        "userDefined": false
+      },
+      {
+        "text": "servers",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from 4 pm",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "until 7 pm",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2940917f-ab1a-4f24-b49a-bf2e1ae90483",
+    "data": [
+      {
+        "text": "limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": true
+      },
+      {
+        "text": "Gbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "Between internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "and servers",
+        "alias": "destination",
+        "meta": "@destination",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for 16:00",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 19:00",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "83a7f54c-e60e-46dd-b82d-9b52f5b341d3",
+    "data": [
+      {
+        "text": "set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at labs",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0bf4a4a-2ae5-4fd6-87f8-6fdf8fff43cb",
+    "data": [
+      {
+        "text": "set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at servers",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "872bbbf9-7bfb-4c9d-978f-7847619c2b6d",
+    "data": [
+      {
+        "text": "Set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dorms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a866ba9-8c79-49f9-adfb-9f4634a713fc",
+    "data": [
+      {
+        "text": "Set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at guest",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c34a3e4d-6cb1-4e7e-a94e-83fbc4023629",
+    "data": [
+      {
+        "text": "Set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at dorms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c49e824-11c2-4e47-b0a5-14fa128d35d0",
+    "data": [
+      {
+        "text": "set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at LAN",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0ae1d535-10cb-48f7-b149-bea7807c5c6d",
+    "data": [
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "all traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at Dorms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4413136-5d1b-415c-a094-51d50ea831a0",
+    "data": [
+      {
+        "text": "Limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at Dorms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "175e9446-cf76-45e0-9812-32c1981aeb93",
+    "data": [
+      {
+        "text": "for endpoint ",
+        "userDefined": false
+      },
+      {
+        "text": "dorms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "download",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gb/wk",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da158c75-9211-4ae1-94cb-879236dadac2",
+    "data": [
+      {
+        "text": "At endpoint Dorms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "GB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65dc86b4-48ba-4317-b66e-7351d1928d6c",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "group",
+        "meta": "@group",
+        "userDefined": false
+      },
+      {
+        "text": " shall ",
+        "userDefined": false
+      },
+      {
+        "text": "download",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "no more than",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000000",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "MB per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "999e08d7-5709-4b6c-9651-270946176bed",
+    "data": [
+      {
+        "text": "hey lumi, please ",
+        "userDefined": false
+      },
+      {
+        "text": "add",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "DPI",
+        "alias": "middlebox",
+        "meta": "@middlebox",
+        "userDefined": false
+      },
+      {
+        "text": " to ensure ",
+        "userDefined": false
+      },
+      {
+        "text": "students",
+        "alias": "group",
+        "meta": "@group",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from the labs",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " are not accessing suspicious ",
+        "userDefined": false
+      },
+      {
+        "text": "applications",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75e52b95-833d-4bc7-821e-6ffdc4c0f55c",
+    "data": [
+      {
+        "text": "Limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " rack ",
+        "userDefined": false
+      },
+      {
+        "text": "servers",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": "gbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "during 5pm",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 7pm",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ab097ee-b4f0-43ab-a314-cdccc29b9a7e",
+    "data": [
+      {
+        "text": "Limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "servers",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": true
+      },
+      {
+        "text": "gbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "during 5pm",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 7pm",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9fd3dc4-6e1a-4ba8-bb80-81c36e91ea40",
+    "data": [
+      {
+        "text": "Set",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": true
+      },
+      {
+        "text": "gbps",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for servers",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "during 4pm",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to 7pm",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1369dd92-d08d-459f-95d1-b8a3ec99881b",
+    "data": [
+      {
+        "text": "please lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "block",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "f2movies traffic",
+        "alias": "service",
+        "meta": "@service",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "from internet",
+        "alias": "origin",
+        "meta": "@origin",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "to students",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "labs",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65ce5dc5-e5ae-4b53-af6a-71f6eac531a4",
+    "data": [
+      {
+        "text": "hey lumi, please ",
+        "userDefined": false
+      },
+      {
+        "text": "allow",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "traffic",
+        "alias": "traffic",
+        "meta": "@traffic",
+        "userDefined": false
+      },
+      {
+        "text": " only ",
+        "userDefined": false
+      },
+      {
+        "text": "from professors",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afbaaba-fad4-4228-ab29-99a5868f77b5",
+    "data": [
+      {
+        "text": "please lumi, ",
+        "userDefined": false
+      },
+      {
+        "text": "define",
+        "alias": "operation",
+        "meta": "@operation",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "dorms",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "quota",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "gb per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14c8e204-3144-46f3-ac5b-186360e0b10f",
+    "data": [
+      {
+        "text": "Students",
+        "alias": "group",
+        "meta": "@group",
+        "userDefined": false
+      },
+      {
+        "text": " shall ",
+        "userDefined": false
+      },
+      {
+        "text": "download",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "no more than",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "1000000",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "megabytes per week",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16b4d1b9-5f82-4103-92d2-f4f5ef4df929",
+    "data": [
+      {
+        "text": "please ",
+        "userDefined": false
+      },
+      {
+        "text": "limit",
+        "alias": "qos_constraint",
+        "meta": "@qos_constraint",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bandwidth",
+        "alias": "qos_metric",
+        "meta": "@qos_metric",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "qos_value",
+        "meta": "@qos_value",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Gigabits per second",
+        "alias": "qos_unit",
+        "meta": "@qos_unit",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "for the server racks",
+        "alias": "target",
+        "meta": "@target",
+        "userDefined": false
+      },
+      {
+        "text": " everyday ",
+        "userDefined": false
+      },
+      {
+        "text": "from 4 PM",
+        "alias": "start",
+        "meta": "@start",
+        "userDefined": true
+      },
+      {
+        "text": "  ",
+        "userDefined": false
+      },
+      {
+        "text": "to 7PM",
+        "alias": "end",
+        "meta": "@end",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
     "id": "962f4cfa-86cd-42ba-9292-97145b7c7186",
     "data": [
       {

@@ -220,5 +220,41 @@
     "synonyms": [
       "from @location:location "
     ]
+  },
+  {
+    "value": "at @location:location",
+    "synonyms": [
+      "at @location:location"
+    ]
+  },
+  {
+    "value": "at endpoint @location:location",
+    "synonyms": [
+      "at endpoint @location:location"
+    ]
+  },
+  {
+    "value": "in the @location:location",
+    "synonyms": [
+      "in the @location:location"
+    ]
+  },
+  {
+    "value": "in the @group:group",
+    "synonyms": [
+      "in the @group:group"
+    ]
+  },
+  {
+    "value": "traffic of @service:service ",
+    "synonyms": [
+      "traffic of @service:service "
+    ]
+  },
+  {
+    "value": "traffic of @protocol:protocol",
+    "synonyms": [
+      "traffic of @protocol:protocol"
+    ]
   }
 ]
