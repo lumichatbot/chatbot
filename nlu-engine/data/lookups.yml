@@ -1,0 +1,577 @@
+version: "2.0"
+nlu:
+  - lookup: entity
+    examples: |
+      - aggregate
+      - group
+      - grouping
+      - location
+      - place
+      - middlebox
+      - network function
+      - virtual network function
+      - internet application
+      - service
+      - website
+      - flow
+      - traffic
+      - type of traffic
+  - lookup: traffic
+    examples: |
+      - news
+      - all
+      - all traffic
+      - traffic
+      - streaming
+      - music
+      - video sites
+      - videos
+      - streaming traffic
+      - P2P application
+      - torrent traffic
+      - peer to peer
+      - peer2peer
+      - torrent
+      - peer-to-peer
+      - students can download 10gb in dorms
+      - social
+      - social websites
+      - social media
+      - social-media
+  - lookup: location
+    examples: |
+      - video server
+      - verizon
+      - Verizon
+      - Federal Unversity of Rio Grande do Sul
+      - UFRGS
+      - university
+      - HR
+      - human resources
+      - HR department
+      - the internal Rose-Hulman network
+      - internal-network
+      - Servers
+      - house
+      - wired/wireless network
+      - system
+      - wired network
+      - wireless
+      - wireless network
+      - my network
+      - network
+      - ps4
+      - playstation
+      - videogame
+      - playstation 4
+      - PUCRS
+      - PUC
+      - database
+      - base of data
+      - data
+      - server
+      - servers
+      - server racks
+      - MITNet
+      - China
+      - my mac
+      - my macbook
+      - macbook
+      - bedrooms
+      - housing
+      - dorms
+      - student housing
+      - domitories
+      - residents
+      - student dorms
+      - resident
+      - backend servers
+      - backend server
+      - backend
+      - UW network
+      - block just nintendo network
+      - University of Illinois
+      - University Housing
+      - individual
+      - hosts
+      - host
+      - all hosts
+      - computers
+      - campus
+      - entire campus
+      - meeting room 23
+      - NYURoam wireless networks
+      - NYURoam
+      - RHIT-OPEN wireless network
+      - RHIT-OPEN
+      - att
+      - ATT
+      - at and t
+      - at&t
+      - AT&T
+      - DMZ
+      - demilitarized zone
+      - r&d
+      - development
+      - r&d division
+      - programming divinsion
+      - development division
+      - marketing
+      - marketing department
+      - UIC wireless-connected
+      - my pc
+      - my computer
+      - pc
+      - personal computer
+      - labs
+      - laboratories
+      - students labs
+      - student laboratories
+      - student labs
+      - application
+      - application servers
+      - local area network
+      - LAN
+      - guests
+      - classroom
+      - classrooms
+      - class
+      - entry
+      - network gateway
+      - external
+      - entrypoint
+      - gateway
+      - internet
+  - lookup: hour
+    examples: |
+      - 01:00
+      - 1am
+      - 02:00
+      - 2am
+      - 03:00
+      - 3am
+      - 04:00
+      - 4am
+      - 05:00
+      - 5am
+      - 06:00
+      - 6am
+      - 07:00
+      - 7am
+      - 08:00
+      - 8am
+      - 09:00
+      - 9am
+      - 10:00
+      - 10am
+      - 11:00
+      - 11am
+      - 12:00
+      - 12pm
+      - noon
+      - 13:00
+      - 1pm
+      - 14:00
+      - 2pm
+      - 15:00
+      - 3pm
+      - 16:00
+      - 4pm
+      - 17:00
+      - 5pm
+      - 18:00
+      - 6pm
+      - 19:00
+      - 7pm
+      - 20:00
+      - 8pm
+      - 21:00
+      - 9pm
+      - 10pm
+      - 22:00
+      - 11pm
+      - 23:00
+      - 00:00
+      - 12am
+      - 24:00
+      - midnight
+  - lookup: service
+    examples: |
+      - youtube
+      - AIM Chat
+      - NETBIOS
+      - netbios
+      - MSN video
+      - Netflix
+      - instagram
+      - CS
+      - CS server
+      - Counter Strike
+      - CounterStrike server
+      - bittorrent
+      - skype
+      - blizzard battlenet
+      - battlenet
+      - PC-Telephone
+      - PC Telephone
+      - pc-telephone
+      - IRC
+      - irc
+      - mail server
+      - mail
+      - mail servers
+      - email
+      - file share server
+      - downloading
+      - download server
+      - file server
+      - file sharing
+      - Sorenson Videophone 200
+      - file transfer
+      - file transfering
+      - facebook
+      - Facebook
+      - popcorn
+      - popcorn-time
+      - Amazon
+      - amazon prime video
+      - prime video
+      - everquest
+      - Everquest
+      - MSN application sharing
+      - F2movies
+      - F2movies traffic
+      - Net2Phone
+      - vimeo
+      - H323 video conferencing
+      - video and audio conferencing products that use the H.323
+      - PlayStation 2
+      - ps2
+      - MSN
+      - MSN chat
+      - MSN audio
+  - lookup: protocol
+    examples: |
+      - dns
+      - ftp
+      - http
+      - https
+      - quic
+      - rtsp
+      - sftp
+      - smtp
+      - snmp
+      - ssh
+      - tcp
+      - udp
+      - imap
+      - IMAP
+      - pop3
+      - POP3
+      - secure imap
+      - secure IMAP
+      - secure pop
+      - secure POP
+      - telnet
+      - Telnet
+  - lookup: operation
+    examples: |
+      - add
+      - append
+      - include
+      - increase
+      - must pass through
+      - pass through
+      - forward
+      - forward through
+      - affix
+      - allow
+      - allowed
+      - allowing
+      - grant
+      - let
+      - permit
+      - let on
+      - authorize
+      - pass
+      - admit
+      - tolerate
+      - do not block
+      - must not be blocked
+      - unblock
+      - block
+      - blocked
+      - blocking
+      - can not run
+      - cannot run
+      - deny
+      - do not let
+      - may not run
+      - prevent
+      - stop
+      - obstruct
+      - cut off
+      - deter
+      - halt
+      - intercept
+      - impede
+      - stall
+      - thwart
+      - hinder
+      - hold up
+      - close
+      - close off
+      - bar
+      - barred
+      - do not allow
+      - must not be allowed
+      - cut out
+      - delete
+      - remove
+      - abolish
+      - extract
+      - clear away
+      - discard
+      - get rid of
+      - detach
+      - expel
+      - take out
+      - withdraw
+      - exclude
+      - Define
+      - allocate
+      - fix
+      - provide
+      - set
+      - settle
+      - will have
+      - place
+      - establish
+      - put
+      - dismiss
+      - does not have any
+      - unfix
+      - unset
+      - unsettle
+      - withhold
+  - lookup: group
+    examples: |
+      - all professors
+      - teachers
+      - professors
+      - all teachers
+      - all prof
+      - prof
+      - Guests' network
+      - guests
+      - guest users
+      - all students
+      - undergrads
+      - students
+      - scholar
+      - resident
+      - Staff members
+      - staff
+      - for all staff
+      - faculty
+      - consumers
+      - network users
+      - user
+      - users
+  - lookup: middlebox
+    examples: |
+      - nat
+      - address translation
+      - translation
+      - network address translation
+      - all
+      - all middleboxes
+      - overuse notification
+      - balancing
+      - load balancing
+      - load balancer
+      - Balance
+      - intrusion prevention
+      - ips
+      - intrusion prevention system
+      - For Dorms set download 10 gb/wk
+      - unit firewall
+      - custom unit firewall
+      - traffic shaping
+      - traffic shaper
+      - priority
+      - shaping
+      - prioritize
+      - network border system
+      - network border infrastructure system
+      - copyright
+      - copyright violation
+      - copyright-monitoring
+      - private netwok
+      - vpn
+      - privacy
+      - tunneling
+      - intrusion detection system
+      - ids
+      - intrusion detection
+      - deep packet inspection
+      - inspect
+      - deep inspection
+      - packet inspection
+      - dpi
+      - parent inspection
+      - child protection
+      - children protection
+      - parental control
+      - content control
+      - using notification
+      - system traffic monitor
+      - network traffic monitor
+      - traffic monitor
+      - monitors
+      - network throughput monitor
+  - lookup: qos_constraint
+    examples: |
+      - download
+      - downstream
+      - inbound
+      - incoming
+      - capped
+      - capped at
+      - limit
+      - limited
+      - max
+      - maximum
+      - cap
+      - ceiling
+      - at most
+      - peak
+      - min
+      - minimum
+      - lowest amount
+      - minimal
+      - outbound
+      - outgoing
+      - upload
+      - uploading
+      - upstream
+  - lookup: qos_metric
+    examples: |
+      - bandwidth
+      - bandwidth consumption
+      - bandwidth rate
+      - cap
+      - capped at
+      - download rate
+      - is rate-limited to
+      - link
+      - rate
+      - rate limits
+      - speed
+      - throughput
+      - data transfer rate
+      - upload rate
+      - data plan
+      - data transfer limit
+      - may use
+      - may use up to
+      - quota
+      - reach
+      - reached
+      - should not use more than
+      - should use more than
+      - usage limit
+      - data
+      - no more than
+      - network usage
+  - lookup: qos_unit
+    examples: |
+      - gigabytes
+      - gb
+      - gigabyte
+      - GB a day
+      - GB per 24-hour period
+      - gb/d
+      - gigabytes of bandwidth per day
+      - GB of data in a day
+      - gb daily
+      - gb day
+      - gigabytes daily
+      - gigabytes daily
+      - GB monthly
+      - GB of Free monthly usage
+      - GB per month
+      - Gb per month
+      - gb/mth
+      - GB of data in a month
+      - gigabytes month
+      - gigabytes monthly
+      - gb month
+      - gb monthly
+      - GB of data weekly
+      - gb every week
+      - gb per week
+      - gb/wk
+      - gigabyte every week
+      - gigabyte per week
+      - gigabytes of bandwidth per week
+      - gigabytes per each 7 day period
+      - GB of data in a week
+      - gb per seven days
+      - gigabyte per seven days
+      - gb week
+      - gb a week
+      - gigabyte a week
+      - gigabyte weekly
+      - gb weekly
+      - gbps
+      - gigabit per second
+      - gigabit per seconds
+      - Kbps
+      - kbps
+      - Megabyte per hour
+      - Megabyte/hr
+      - Megabytes per hour
+      - mb/hr
+      - megabyte per hour
+      - megabyte/hr
+      - mb every week
+      - mb per week
+      - mb/wk
+      - megabyte every week
+      - megabyte per week
+      - Mb/s
+      - Mbps
+      - mbps
+      - megabit per second
+      - megabits per seconds
+      - gb/hr
+      - gb per hour
+      - gygabit per hour
+      - GB per hour
+      - GB of data in an hour
+      - GB
+  - lookup: qos_value
+    examples: |
+      - 1
+      - 10
+      - 100
+      - 18
+      - 2
+      - 20
+      - 200
+      - 2000
+      - 3
+      - 30
+      - 4
+      - 5
+      - 500
+      - 5000
+      - 6
+      - five
+      - does not enforce
+      - does not have
+      - does not have any
+      - doesn't have
+      - doesn't have any
+      - none

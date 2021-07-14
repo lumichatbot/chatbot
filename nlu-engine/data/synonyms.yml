@@ -1,0 +1,714 @@
+version: "2.0"
+nlu:
+  - synonym: 01:00
+    examples: |
+      - 01:00
+      - 1am
+  - synonym: 02:00
+    examples: |
+      - 02:00
+      - 2am
+  - synonym: 03:00
+    examples: |
+      - 03:00
+      - 3am
+  - synonym: 04:00
+    examples: |
+      - 04:00
+      - 4am
+  - synonym: 05:00
+    examples: |
+      - 05:00
+      - 5am
+  - synonym: 06:00
+    examples: |
+      - 06:00
+      - 6am
+  - synonym: 07:00
+    examples: |
+      - 07:00
+      - 7am
+  - synonym: 08:00
+    examples: |
+      - 08:00
+      - 8am
+  - synonym: 09:00
+    examples: |
+      - 09:00
+      - 9am
+  - synonym: 10:00
+    examples: |
+      - 10:00
+      - 10am
+  - synonym: 11:00
+    examples: |
+      - 11:00
+      - 11am
+  - synonym: 12:00
+    examples: |
+      - 12:00
+      - 12pm
+      - noon
+  - synonym: 13:00
+    examples: |
+      - 13:00
+      - 1pm
+  - synonym: 14:00
+    examples: |
+      - 14:00
+      - 2pm
+  - synonym: 15:00
+    examples: |
+      - 15:00
+      - 3pm
+  - synonym: 16:00
+    examples: |
+      - 16:00
+      - 4pm
+  - synonym: 17:00
+    examples: |
+      - 17:00
+      - 5pm
+  - synonym: 18:00
+    examples: |
+      - 18:00
+      - 6pm
+  - synonym: 19:00
+    examples: |
+      - 19:00
+      - 7pm
+  - synonym: 20:00
+    examples: |
+      - 20:00
+      - 8pm
+  - synonym: 21:00
+    examples: |
+      - 21:00
+      - 9pm
+  - synonym: 22:00
+    examples: |
+      - 10pm
+      - 22:00
+  - synonym: 23:00
+    examples: |
+      - 11pm
+      - 23:00
+  - synonym: 24:00
+    examples: |
+      - 00:00
+      - 12am
+      - 24:00
+      - midnight
+  - synonym: Battlenet
+    examples: |
+      - blizzard battlenet
+      - Battlenet
+      - battlenet
+  - synonym: CounterStrike server
+    examples: |
+      - CS
+      - CS server
+      - Counter Strike
+      - CounterStrike server
+  - synonym: DMZ
+    examples: |
+      - DMZ
+      - demilitarized zone
+  - synonym: F2movies
+    examples: |
+      - F2movies
+      - F2movies traffic
+  - synonym: H323 video conferencing
+    examples: |
+      - H323 video conferencing
+      - video and audio conferencing products that use the H.323
+  - synonym: HR
+    examples: |
+      - HR
+      - human resources
+      - Human Resources
+      - HR department
+  - synonym: LAN
+    examples: |
+      - local area network
+      - LAN
+  - synonym: MSN chat
+    examples: |
+      - MSN
+      - MSN chat
+  - synonym: NETBIOS
+    examples: |
+      - NETBIOS
+      - netbios
+  - synonym: NYURoam
+    examples: |
+      - NYURoam wireless networks
+      - NYURoam
+  - synonym: PC Telephone
+    examples: |
+      - PC-Telephone
+      - PC Telephone
+      - pc-telephone
+  - synonym: PUCRS
+    examples: |
+      - PUCRS
+      - PUC
+  - synonym: PlayStation 2
+    examples: |
+      - PlayStation 2
+      - ps2
+  - synonym: RHIT-OPEN
+    examples: |
+      - RHIT-OPEN wireless network
+      - RHIT-OPEN
+  - synonym: Servers
+    examples: |
+      - Servers
+  - synonym: UFRGS
+    examples: |
+      - Federal Unversity of Rio Grande do Sul
+      - UFRGS
+  - synonym: add
+    examples: |
+      - add
+      - append
+      - include
+      - increase
+      - must pass through
+      - pass through
+      - forward
+      - forward through
+      - affix
+  - synonym: all
+    examples: |
+      - traffic
+      - all
+      - all traffic
+      - all middleboxes
+  - synonym: allow
+    examples: |
+      - allow
+      - allowed
+      - allowing
+      - grant
+      - let
+      - permit
+      - let on
+      - authorize
+      - pass
+      - admit
+      - tolerate
+      - do not block
+      - must not be blocked
+      - unblock
+  - synonym: amazon-prime
+    examples: |
+      - Amazon
+      - amazon prime video
+      - prime video
+  - synonym: application
+    examples: |
+      - application
+      - application servers
+  - synonym: at&t
+    examples: |
+      - att
+      - ATT
+      - AT and T
+      - at and t
+      - at&t
+      - AT&T
+  - synonym: backend
+    examples: |
+      - backend servers
+      - backend server
+      - backend
+  - synonym: bandwidth
+    examples: |
+      - capped at
+      - cap
+      - bandwidth
+      - bandwidth consumption
+      - bandwidth rate
+      - download rate
+      - is rate-limited to
+      - link
+      - rate
+      - rate limits
+      - speed
+      - throughput
+      - data transfer rate
+      - upload rate
+  - synonym: block
+    examples: |
+      - block
+      - blocked
+      - blocking
+      - can not run
+      - cannot run
+      - deny
+      - do not let
+      - may not run
+      - prevent
+      - stop
+      - obstruct
+      - cut off
+      - deter
+      - halt
+      - intercept
+      - impede
+      - stall
+      - thwart
+      - hinder
+      - hold up
+      - close
+      - close off
+      - bar
+      - barred
+      - do not allow
+      - must not be allowed
+  - synonym: campus
+    examples: |
+      - campus
+      - entire campus
+  - synonym: classrooms
+    examples: |
+      - classroom
+      - classrooms
+      - class
+  - synonym: copyright monitoring
+    examples: |
+      - copyright
+      - copyright violation
+      - copyright-monitoring
+  - synonym: database
+    examples: |
+      - database
+      - base of data
+  - synonym: dorms
+    examples: |
+      - bedrooms
+      - housing
+      - dorms
+      - student housing
+      - domitories
+      - residents
+      - student dorms
+  - synonym: download
+    examples: |
+      - Download
+      - download
+      - downstream
+      - inbound
+      - incoming
+  - synonym: dpi
+    examples: |
+      - deep packet inspection
+      - inspect
+      - deep inspection
+      - packet inspection
+      - dpi
+  - synonym: email
+    examples: |
+      - mail server
+      - mail
+      - mail servers
+      - email
+  - synonym: file sharing
+    examples: |
+      - file share server
+      - downloading
+      - download server
+      - file server
+      - file sharing
+  - synonym: file transfer
+    examples: |
+      - file transfer
+      - file transfering
+  - synonym: gateway
+    examples: |
+      - entry
+      - network gateway
+      - external
+      - entrypoint
+      - gateway
+      - internet
+  - synonym: gb
+    examples: |
+      - Gigabytes
+      - gb
+      - gigabyte
+  - synonym: gb/d
+    examples: |
+      - GB a day
+      - GB per 24-hour period
+      - gb/d
+      - gigabytes of bandwidth per day
+      - GB of data in a day
+      - gb daily
+      - gb day
+      - gigabytes daily
+  - synonym: gb/hr
+    examples: |
+      - gb/hr
+      - gb per hour
+      - gygabit per hour
+      - GB per hour
+      - GB of data in an hour
+      - GB
+  - synonym: gb/mth
+    examples: |
+      - GB monthly
+      - GB of Free monthly usage
+      - GB per month
+      - Gb per month
+      - gb/mth
+      - GB of data in a month
+      - gigabytes month
+      - gigabytes monthly
+      - gb month
+      - gb monthly
+  - synonym: gb/wk
+    examples: |
+      - GB of data weekly
+      - gb every week
+      - gb per week
+      - gb/wk
+      - gigabyte every week
+      - gigabyte per week
+      - gigabytes of bandwidth per week
+      - gigabytes per each 7 day period
+      - GB of data in a week
+      - gb per seven days
+      - gigabyte per seven days
+      - gb week
+      - gb a week
+      - gigabyte a week
+      - gigabyte weekly
+      - gb weekly
+  - synonym: gbps
+    examples: |
+      - gbps
+      - gigabit per second
+      - gigabit per seconds
+  - synonym: group
+    examples: |
+      - aggregate
+      - group
+      - grouping
+  - synonym: guests
+    examples: |
+      - guests
+      - Guests' network
+      - guest users
+  - synonym: hosts
+    examples: |
+      - individual
+      - hosts
+      - host
+      - all hosts
+      - computers
+  - synonym: ids
+    examples: |
+      - intrusion detection system
+      - ids
+      - intrusion detection
+  - synonym: imap
+    examples: |
+      - imap
+      - IMAP
+  - synonym: internal-network
+    examples: |
+      - the internal Rose-Hulman network
+      - internal-network
+  - synonym: ips
+    examples: |
+      - intrusion prevention
+      - ips
+      - intrusion prevention system
+  - synonym: irc
+    examples: |
+      - IRC
+      - irc
+  - synonym: kbps
+    examples: |
+      - Kbps
+      - kbps
+  - synonym: labs
+    examples: |
+      - labs
+      - laboratories
+      - students labs
+      - student laboratories
+      - student labs
+  - synonym: load balancer
+    examples: |
+      - balancing
+      - load balancing
+      - load balancer
+      - Balance
+  - synonym: macbook
+    examples: |
+      - my mac
+      - my macbook
+      - macbook
+  - synonym: marketing
+    examples: |
+      - marketing
+      - marketing department
+  - synonym: max
+    examples: |
+      - capped
+      - limit
+      - limited
+      - max
+      - maximum
+      - ceiling
+      - at most
+      - peak
+  - synonym: mb/hr
+    examples: |
+      - Megabyte per hour
+      - Megabyte/hr
+      - Megabytes per hour
+      - mb/hr
+      - megabyte per hour
+      - megabyte/hr
+  - synonym: mb/wk
+    examples: |
+      - mb every week
+      - mb per week
+      - mb/wk
+      - megabyte every week
+      - megabyte per week
+  - synonym: mbps
+    examples: |
+      - Mb/s
+      - Mbps
+      - mbps
+      - megabit per second
+      - megabits per seconds
+  - synonym: middlebox
+    examples: |
+      - middlebox
+      - network function
+      - virtual network function
+  - synonym: min
+    examples: |
+      - min
+      - minimum
+      - lowest amount
+      - minimal
+  - synonym: nat
+    examples: |
+      - nat
+      - address translation
+      - translation
+      - network address translation
+  - synonym: network
+    examples: |
+      - wired/wireless network
+      - system
+      - wired network
+      - wireless
+      - wireless network
+      - my network
+      - network
+  - synonym: network border system
+    examples: |
+      - network border system
+      - network border infrastructure system
+  - synonym: none
+    examples: |
+      - does not have any
+      - does not enforce
+      - does not have
+      - doesn't have
+      - doesn't have any
+      - none
+  - synonym: parental control
+    examples: |
+      - parent inspection
+      - child protection
+      - children protection
+      - parental control
+      - content control
+  - synonym: pc
+    examples: |
+      - my pc
+      - my computer
+      - pc
+      - personal computer
+  - synonym: popcorn-time
+    examples: |
+      - popcorn
+      - popcorn-time
+  - synonym: professors
+    examples: |
+      - all professors
+      - teachers
+      - professors
+      - all teachers
+      - all prof
+      - prof
+  - synonym: ps4
+    examples: |
+      - ps4
+      - playstation
+      - PlayStation
+      - videogame
+      - playstation 4
+  - synonym: quota
+    examples: |
+      - data
+      - data plan
+      - data transfer limit
+      - may use
+      - may use up to
+      - quota
+      - reach
+      - reached
+      - should not use more than
+      - should use more than
+      - usage limit
+      - no more than
+      - network usage
+  - synonym: r&d
+    examples: |
+      - r&d
+      - development
+      - r&d division
+      - programming divinsion
+      - development division
+  - synonym: remove
+    examples: |
+      - cut out
+      - delete
+      - remove
+      - abolish
+      - extract
+      - clear away
+      - discard
+      - get rid of
+      - detach
+      - expel
+      - take out
+      - withdraw
+      - exclude
+  - synonym: servers
+    examples: |
+      - server
+      - servers
+      - server racks
+  - synonym: service
+    examples: |
+      - internet application
+      - service
+      - website
+  - synonym: set
+    examples: |
+      - place
+      - Define
+      - allocate
+      - fix
+      - provide
+      - set
+      - settle
+      - will have
+      - establish
+      - put
+  - synonym: social-media
+    examples: |
+      - social
+      - social websites
+      - social media
+      - social-media
+  - synonym: staff
+    examples: |
+      - Staff members
+      - staff
+      - for all staff
+      - faculty
+  - synonym: streaming
+    examples: |
+      - streaming
+      - music
+      - video sites
+      - videos
+      - streaming traffic
+  - synonym: students
+    examples: |
+      - resident
+      - all students
+      - undergrads
+      - students
+      - scholar
+  - synonym: telnet
+    examples: |
+      - telnet
+      - Telnet
+  - synonym: torrent
+    examples: |
+      - P2P application
+      - torrent traffic
+      - peer to peer
+      - peer2peer
+      - torrent
+      - peer-to-peer
+  - synonym: traffic
+    examples: |
+      - flow
+      - type of traffic
+  - synonym: traffic monitor
+    examples: |
+      - using notification
+      - system traffic monitor
+      - network traffic monitor
+      - traffic monitor
+      - monitors
+      - network throughput monitor
+  - synonym: traffic shaping
+    examples: |
+      - traffic shaping
+      - traffic shaper
+      - priority
+      - shaping
+      - prioritize
+  - synonym: unit firewall
+    examples: |
+      - unit firewall
+      - custom unit firewall
+  - synonym: unset
+    examples: |
+      - dismiss
+      - unfix
+      - unset
+      - unsettle
+      - withhold
+  - synonym: upload
+    examples: |
+      - Upload
+      - outbound
+      - outgoing
+      - upload
+      - uploading
+      - upstream
+  - synonym: users
+    examples: |
+      - network users
+      - user
+      - users
+  - synonym: verizon
+    examples: |
+      - verizon
+      - Verizon
+  - synonym: virtual private network
+    examples: |
+      - private netwok
+      - vpn
+      - privacy
+      - tunneling
+  - synonym: youtube
+    examples: |
+      - youtube
+      - YouTube

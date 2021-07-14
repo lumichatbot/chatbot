@@ -1,9 +1,0 @@
-{
-  "id": "7deda1e9-8269-42df-b818-d29908cd90cd",
-  "name": "entity",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": true,
-  "allowFuzzyExtraction": false
-}

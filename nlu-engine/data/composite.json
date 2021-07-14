@@ -1,0 +1,104 @@
+{
+  "composite_entities": [
+    {
+      "name": "origin",
+      "patterns": [
+        "@location traffic",
+        "between @location",
+        "from @location",
+        "from a @location",
+        "from my @location",
+        "from the @location",
+        "start at @location",
+        "starting at @location"
+      ]
+    },
+    {
+      "name": "destination",
+      "patterns": [
+        "ending at @location",
+        "end at @location",
+        "and @location",
+        "to @location",
+        "to a @location",
+        "to my @location",
+        "to the @location"
+      ]
+    },
+    {
+      "name": "start",
+      "patterns": [
+        "from @hour",
+        "on @hour",
+        "start at @hour",
+        "starting at @hour",
+        "between @hour ",
+        "during @hour ",
+        "interval @hour",
+        "start @hour",
+        "for @hour"
+      ]
+    },
+    {
+      "name": "end",
+      "patterns": [
+        "end at @hour",
+        "ending at @hour",
+        "to @hour",
+        "until @hour",
+        "and @hour",
+        "finish at @hour",
+        "finish @hour",
+        "finishing at @hour"
+      ]
+    },
+    {
+      "name": "target",
+      "patterns": [
+        "@group",
+        "a @group",
+        "and @location",
+        "by @group",
+        "by @location",
+        "for @group",
+        "for @location",
+        "for the @location",
+        "in @location",
+        "on @location",
+        "on the @location",
+        "or @location",
+        "per @location",
+        "the @group",
+        "the @group `s",
+        "the @location",
+        "to @group",
+        "to @location",
+        "for @service",
+        "from @service",
+        "@service traffic",
+        "@service\u0027s traffic",
+        "for @traffic",
+        "such as @traffic",
+        "for all @group",
+        "for all @service",
+        "for all @traffic",
+        "for all @location",
+        "@traffic",
+        "for @group members",
+        "of @location",
+        "of @group",
+        "of @service",
+        "of @traffic",
+        "of the @location",
+        "from @group",
+        "from @location",
+        "at @location",
+        "at endpoint @location",
+        "in the @location",
+        "in the @group",
+        "traffic of @service",
+        "traffic of @protocol"
+      ]
+    }
+  ]
+}

@@ -1,9 +1,0 @@
-{
-  "id": "c46a5412-d0c8-4c16-8bb8-81e52a712130",
-  "name": "start",
-  "isOverridable": true,
-  "isEnum": true,
-  "isRegexp": false,
-  "automatedExpansion": false,
-  "allowFuzzyExtraction": false
-}

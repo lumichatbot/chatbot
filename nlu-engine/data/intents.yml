@@ -1,0 +1,282 @@
+version: "2.0"
+nlu:
+- intent: welcome
+  examples: |
+    - Hey
+    - What's up?
+    - Hi
+    - Hello
+- intent: thanks
+  examples: |
+    - I'm so happy
+    - that's great
+    - amazing
+    - awesome
+    - great
+    - Thanks a lot!
+    - thank you!
+- intent: goodbye
+  examples: |
+    - Great! Bye!
+    - Bye bye!
+    - See you later then!
+    - Ok, see you!
+- intent: cancel
+  examples: |
+    - Start over
+    - Please cancel
+    - Cancel
+- intent: confirm
+  examples: |
+    - sure
+    - okay
+    - sounds correct
+    - that works
+    - yep that's ok
+    - yes that's alright
+    - I think so
+    - sg
+    - yes I agree
+    - I don't mind
+    - I agree
+    - yes I do
+    - for sure
+    - ok
+    - yes that't ok
+    - that one works
+    - yes you can do it
+    - perfect
+    - yes
+    - why not
+    - of course
+    - yep that's right
+    - okay I will
+    - exactly
+    - sure why not
+    - absolutely
+    - it's okay
+    - it's fine
+    - go ahead
+    - confirm
+    - sounds good
+    - alright
+    - yeah
+    - yup
+    - yes please
+    - do it
+    - yes I can
+    - it looks perfect
+    - that's correct
+    - right
+    - alright why not
+    - yep
+- intent: reject
+  examples: |
+    - don't
+    - nope not really
+    - no that's be all
+    - not right now
+    - thanks but no
+    - not
+    - no we are good
+    - nothing else
+    - not interested
+    - nah I'm good
+    - definitely not
+    - no never
+    - never
+    - nah
+    - nothing
+    - no maybe next time
+    - I don't want that
+    - no not really
+    - no that's ok
+    - no no don't
+    - na
+    - no way no
+    - I can't
+    - no thanks
+    - not at all
+    - not really
+    - I don't
+    - no I cannot
+    - no that's okay
+    - nope
+    - I don't think so
+    - no it isn't
+    - thanks but not this time
+    - no that's fine thank you
+    - no don't
+    - don't do it
+    - I don't want
+    - not today
+    - I'm not
+    - no way
+    - no
+    - I disagree
+    - not this time
+    - nothing else thanks
+- intent: build
+  examples: |
+    - Lumi, for the [guest network](location), [limit](qos_constraint) the traffic of [torrent](traffic) protocol to [100](qos_value) [mbps](qos_unit)
+    - [unblock](operation) [facebook](service)
+    - [unblock](operation) [traffic](traffic)
+    - [block](operation) [facebook](service)
+    - [Block](operation) [F2movies traffic](service) from [Internet](location) to [Labs](location)
+    - [Block](operation) [F2movies traffic](service) from [Internet](location) to [student Labs](location)
+    - [Add](operation) [DPI](middlebox) middlebox into [all traffic](traffic) from [Internet](location) to the [Labs](location)
+    - [All traffic](traffic) from the [Internet](location) to the [Labs](location) has to go to [DPI](middlebox) server and then goes to the Labs
+    - [add](operation) [dpi](middlebox) to [labs](location) [network](location)
+    - Hey Lumi, [add](operation) [DPI](middlebox) to the [labs](location) network
+    - hey Lumi, [add](operation) [dpi](middlebox) to [labs](location)
+    - [limit](qos_constraint) [servers](location) [bandwidth](qos_metric) to [5](qos_value) [gbps](qos_unit) between [4pm](hour) and [7pm](hour)
+    - [unblock](operation) [facebook traffic](service)
+    - [allow](operation) [all traffic](traffic)
+    - [block](operation) all [student](group) [traffic](traffic) in the [network](location)
+    - [block](operation) all [student](group) [traffic](traffic)
+    - [block](operation) [all traffic](traffic)
+    - [Limit](qos_constraint) [students](group) in the [dorm](location) to [10](qos_value) [GB per week](qos_unit)
+    - Make sure [all traffic](traffic) from the [Internet](location) to the [labs](location) is [inspected](middlebox) by the [DPI](middlebox) middlebox
+    - Between [internet](location) and [servers](location) [limit](qos_constraint) [traffic](traffic) to [5](qos_value) [Gbps](qos_unit) start [16:00](hour) finish [19:00](hour)
+    - Between [internet](location) and [servers](location) [limit](qos_constraint) [traffic](traffic) to [5](qos_value) [Gbps](qos_unit) interval [4pm](hour) to [7pm](hour)
+    - [limit](qos_constraint) the [bandwidth](qos_metric) to [5](qos_value) [Gb](qos_unit) for rack [servers](location) from [4 pm](hour) until [7 pm](hour)
+    - [limit](qos_constraint) [traffic](traffic) to [5](qos_value) [Gbps](qos_unit) between [internet](location) and [servers](location) [or [16:00](hour) to [19:00](hour)
+    - [set](operation) [quota](qos_metric) to [10](qos_value) [GB per week](qos_unit) at [labs](location)
+    - [set](operation) [quota](qos_metric) to [10](qos_value) [GB per week](qos_unit) at [servers](location)
+    - [Set](operation) [quota](qos_metric) to [10](qos_value) [GB per week](qos_unit) [dorms](location)
+    - [Set](operation) [quota](qos_metric) to [10](qos_value) [GB per week](qos_unit) at [guest](location)
+    - [Set](operation) [quota](qos_metric) to [10](qos_value) [GB per week](qos_unit) at [dorms](location)
+    - [set](operation) [quota](qos_metric) to [10](qos_value) [GB per week](qos_unit) at [LAN](location)
+    - [block](operation) [all traffic](traffic) at [Dorms](location) location
+    - [Limit](qos_constraint) [traffic](traffic) to [10](qos_value) [GB per week](qos_unit) at [Dorms](location)
+    - for endpoint [dorms](location) [set](operation) [quota](qos_metric) [download](qos_constraint) [10](qos_value) [gb/wk](qos_unit)
+    - At endpoint [Dorms](location) [set](operation) [quota](qos_metric) to [10](qos_value) [GB per week](qos_unit)
+    - [Students](group) shall [download](qos_constraint) [no more than](qos_metric) [1000000](qos_value) [MB per week](qos_unit)
+    - hey lumi, please [add](operation) a [DPI](middlebox) to ensure [students](group) from the [labs](location) are not accessing suspicious applications
+    - [Limit](qos_constraint) rack [servers](location) to [5](qos_value) [gbps](qos_unit) during [5pm](hour) to [7pm](hour)
+    - [Limit](qos_constraint) [servers](location) to [5](qos_value) [gbps](qos_unit) during [5pm](hour) to [7pm](hour)
+    - [Set](operation) [5](qos_value) [gbps](qos_unit) [limit](qos_constraint) for [servers](location) during [4pm](hour) to [7pm](hour)
+    - please lumi, [block](operation) [f2movies traffic](service) from [internet](location) to [students](group) [labs](location)
+    - hey lumi, please [allow](operation) [traffic](traffic) only from [professors](group)
+    - please lumi, [define](operation) [dorms](location) [quota](qos_metric) to [10](qos_value) [gb per week](qos_unit)
+    - [Students](group) shall [download](qos_constraint) [no more than](qos_metric) [1000000](qos_value) [megabytes per week](qos_unit)
+    - please [limit](qos_constraint) [bandwidth](qos_metric) to [5](qos_value) [Gigabits per second](qos_unit) for the [server racks](location) everyday from [4 PM](hour) to [7PM](hour)
+    - [limit](qos_constraint) the [bandwidth](qos_metric) in [server racks](location) to [5](qos_value) [gbps](qos_unit) between [4pm](hour) and [7pm](hour)
+    - I want the [torrent traffic](traffic) from [guest users](group) to be [no more than](qos_metric) [100](qos_value) [mbps](qos_unit)
+    - [limit](qos_constraint) [network usage](qos_metric) of all [students](group) in the [dorms](location) to no more than [10](qos_value) [gb per seven days](qos_unit)
+    - [prevent](operation) all [f2movies traffic](service) from reaching the [students](group) in the [labs](location)
+    - [Add](operation) [monitor](middlebox) for the [university](location) from [4am](hour) to [10pm](hour)
+    - [set](operation) a [maximum](qos_constraint) of [5](qos_value) [gbps](qos_unit) to the [servers](location) from [4pm](hour) to [7pm](hour)
+    - [students](group) should [download](qos_constraint) [no more than](qos_metric) [10](qos_value) [GB of data in a week](qos_unit)
+    - [set](operation) [torrent traffic](traffic) from [guests](group) to [100](qos_value) [mbps](qos_unit)
+    - From [internet](location) to [Labs](location) [add](operation) [DPI](middlebox)
+    - From [internet](location) to [Labs](location) [block](operation) [F2movies](service)
+    - [limit](qos_constraint) the [bandwidth rate](qos_metric) of the [server racks](location) to [5](qos_value) [gbps](qos_unit) from [4pm](hour) to [7pm](hour)
+    - [block](operation) [traffic](traffic) of the [server racks](location)
+    - [block](operation) [all traffic](traffic) for the [server racks](location)
+    - [limit](qos_constraint) to [100](qos_value) [Mbps](qos_unit) the [bandwidth](qos_metric) [torrent traffic](traffic) can consume
+    - [forward](operation) [traffic](traffic) for [labs](location) through the [dpi](middlebox)
+    - put a [download](qos_constraint) [quota](qos_metric) for [students](group) of [10](qos_value) [gb per week](qos_unit)
+    - [limit](qos_constraint) [torrent traffic](traffic) to [100](qos_value) [mbps](qos_unit)
+    - [block](operation) [F2movies traffic](service) for [students](group) in the [labs](location)
+    - [set](operation) a [10](qos_value) [GB per week](qos_unit) [download](qos_constraint) [quota](qos_metric) for [students](group) in [dorms](location)
+    - ensure that [all traffic](traffic) from the [Internet](location) to the [labs](location) is carefully inspected by the [Deep Packet Inspection](middlebox) middlebox
+    - [limit](qos_constraint) [torrent traffic](traffic) for [guests](group) to [100](qos_value) [Mbps](qos_unit)
+    - [inspect](middlebox) [all](traffic) [internet](location) traffic
+    - [Students](group) can [download](qos_constraint) up to [10](qos_value) [GB per week](qos_unit) of [data](qos_metric).
+    - [Limit](qos_constraint) [bandwidth](qos_metric) usage to [50](qos_value) [mbps](qos_unit) for [professors](group).
+    - Please make traffic coming from the [Internet](location) [pass through](operation) a [firewall](middlebox).
+    - Hey Lumi please [block](operation) [traffic](traffic) for all [students](group)
+    - [add](operation) a [firewall](middlebox)
+    - From [gateway](location) to [network](location) [add](operation) middlebox [firewall](middlebox)
+    - From [my house](location) to [PUCRS](location) [add](operation) middlebox [dpi](middlebox)
+    - From [dorms](location) to [internet](location) [add](operation) [nat](middlebox)
+    - From [university](location) to [internet](location) [add](operation) [firewall](middlebox)
+    - Please add [traffic shaper](middlebox) between the [internet](location) and the [dorms](location)
+    - Please, [block](operation) [netflix](service) traffic on [PUC](location)
+    - [Block](operation) [streaming traffic](traffic) on [UFRGS](location)
+    - [Add](operation) [inspection](middlebox) for the [university](location) [from 10pm](hour) [to 12pm](hour)
+    - [Block](operation) traffic from [netflix](location)
+    - Add [monitor](middlebox) for the [university](location) from [04:00](hour) to [22:00](hour)
+    - [Add](operation) [traffic monitor](middlebox) from [PUC](location) to [UFRGS](location)
+    - add [shaping](middlebox) for [gateway](location) everyday from [18:00](hour) to [midnight](hour)
+    - Add a [firewall](middlebox) and [address translation](middlebox) for [att](group) and [verizon](group)
+    - [Define](operation) a [quota](qos_metric) of [10](qos_value) [GB per week](qos_unit) for all [students](group)
+    - [Dorms](location) traffic to [internet](location) [must pass through](operation) a [firewall](middlebox)
+    - We provide a [quota](qos_metric) to all [students](group) of [1](qos_value) [GB/wk](qos_unit) of usage.
+    - [Add](operation) [inspection](middlebox) for the [university](location) from [22:00](hour) to [12:00](hour)
+    - [Remove](operation) [firewall](middlebox) from the [university](location) to [my house](location)
+    - [add](operation) [security](middlebox) from [entry](location) to [backend](location)
+    - From [gateway](location) to [my network](location) [remove](operation) [nat](middlebox)
+    - [Remove](operation) [load balancing](middlebox) from [gateway](location) to [database](location)
+    - [Add](operation) [firewall](middlebox) from [gateway](location) to [my house](location) from [06:00](hour) to [21:00](hour)
+    - [Remove](operation) [nat](middlebox) for [gateway](location) everyday from [18:00](hour) to [midnight](hour)
+    - We [provide](operation) a data plan [quota](qos_metric) for all [staff](group) of [10](qos_value) [GB per day](qos_unit)
+    - We [provide](operation) a [quota](qos_metric) to all [students](group) of [1](qos_value) [GB per week](qos_unit) of usage
+    - Please Lumi, [block](operation) [streaming traffic](traffic) for [students](group) and [set](operation) a [10](qos_value) [Mbps](qos_unit) [bandwidth](qos_metric) limit
+    - Please [allow](operation) [social media](traffic) for the [HR department](location)
+    - [Let](operation) [students](group) access [Facebook](service)
+    - [Do no let](operation) [students](group) access [Netflix](service) from the [laboratories](location) to the [internet](location)
+    - [Block](operation) [all traffic](traffic) from [HR](location) to the [backend servers](location)
+    - [Students](group) [may use](qos_metric) up to [10](qos_value) [GB of data weekly](qos_unit)
+    - [Block](operation) [streaming](traffic) and [gaming](traffic) traffic in [classrooms](location)
+    - [Add](operation) [intrusion detection](middlebox) and [address translation](middlebox) for [servers](location) network
+    - [Dismiss](operation) [rate limiting](qos_metric) for [faculty](group) members
+    - [Dismiss](operation) [all middleboxes](middlebox) from [UFRGS](location) to [PUCRS](location)
+    - [Include](operation) [parental control](middlebox) for [PlayStation](service)
+    - [Do not let](operation) [Staff members](group) access any [social media](traffic)
+    - [Set](operation) [users](group) [bandwidth](qos_metric) to [500](qos_value) [kbps](qos_unit) when the [100](qos_value) [Gb per month](qos_unit) [quota](qos_metric) is reached
+    - [Prioritize](middlebox) [Netflix](service) traffic from [18:00](hour) to [midnight](hour)
+    - [Balance](middlebox) traffic coming from [gateway](location) to [application servers](location)
+    - [Block](operation) [torrent traffic](traffic) for all [students](group)
+    - [Block](operation) [bittorrent](service) for [professors](group)
+    - [Staff](group) [is allowed to](operation) access [ftp](protocol)
+    - [Students](group) [cannot run](operation) [file servers](service)
+    - [Add](operation) [parental control](middlebox) from [my house](location) to [internet](location)
+    - [Students](group) [should not use more than](qos_metric) [five](qos_value) [gigabytes of bandwidth per week](qos_unit)
+    - [Block](operation) all incoming [HTTP](protocol) traffic, [allow](operation) only [HTTPS](protocol) for all [hosts](location)
+    - [Permit](operation) [gaming](traffic) for [PS4](location) from [13:00](hour) to [18:00](hour)
+    - [Email](service) traffic [is allowed](operation) for [Staff members](group)
+    - [Grant](operation) [SFTP](protocol) access to all [students](group) from [08:00](hour) to [17:00](hour)
+    - [Dismiss](operation) all [rate limits](qos_metric) and [quotas](qos_metric) for all [hosts](location)
+    - [Prioritize](middlebox) [VoIP](traffic) traffic on the [meeting room 23](location) from [13:00](hour) to [14:00](hour)
+    - [Forward](operation) all the [external](location) traffic to [DMZ](location)
+    - [Limit](qos_constraint) in [10](qos_value) [Mbps](qos_unit) the [download rate](qos_metric) of [dorms](location) from [internet](location)
+    - Lumi, [block](operation) [SIP traffic](protocol) from [19:00](hour) to [08:00](hour) for [dorms](location)
+    - [Grant](operation) [SSH](protocol) access [to professors](group)
+    - [Setup](operation) a [packet filter](middlebox) for [guests](group) traffic
+    - Lumi, please [set](operation) to [1](qos_value) [GB per day](qos_unit) the [download limit](qos_metric) for [guests](group)
+    - Lumi, [prohibit](operation) access to [internal campus computers](location) from the [internet](location)
+    - [Increase](operation) the [bandwidth consumption limit](qos_metric) for [professors](group) to [100](qos_value) [Mbps](qos_unit)
+    - [Allow](operation) [RTSP](protocol) traffic in the [LAN](location)
+    - Lumi, please [install](operation) an [email scanner](middlebox) for the [gateway](location)
+    - Lumi, [block](operation) [VoIP](traffic) traffic from [00:00](hour) to [06:00](hour)
+    - [Set](operation) to [1](qos_value) [Gbps](qos_unit) [bandwidth](qos_metric) [limit](qos_constraint) for the traffic to [DMZ](location)
+    - Lumi, [set to](operation) [10](qos_value) [kbps](qos_unit) the [upload rate](qos_metric) for [faculty](group)
+    - Please, [allow](operation) [Skype](service) for all [users](group)
+    - [Deny](operation) [SSH](protocol) access to [students](group)
+    - Lumi, [setup](operation) a [TCP accelerator](middlebox) between [LAN](location) and [video server](location)
+    - Lumi, [allow](operation) access to [internal campus computers](location) from the [internet](location) through [SSH](protocol)
+    - [Reduce](operation) the [download rate](qos_metric) for [faculty members](group) to [20](qos_value) [Mbps](qos_unit)
+    - [Allow](operation) access from [computers](location) to [DMZ](location)
+    - Lumi [monitors](middlebox) the [network](location) traffic
+- intent: build-feedback
+  examples: |
+    - [blocked](value) is an [operation](entity)
+    - you missed [blocked](value)
+    - an [operation](entity)
+    - a [location](entity)
+    - you've missed the [ResNet](value)
+    - the [entity](value)
+    - you've missed the [location](entity)
+    - the [location](entity)
+    - [firewall](value)
+    - the [middlebox](entity)
+    - the [middlebox](entity) I want is a [shaper](value)
+    - the [location](entity) is '[backend](value)'
+    - [housing](value) is a [location](entity)
+    - [Dorms](value) is a [location](entity)
+    - [University](value) is a [location](entity)
+    - [copyright](value) is a [middlebox](entity)
+    - [firewall](value) is a [middlebox](entity)
+    - [nat](value) is a [middlebox](entity)

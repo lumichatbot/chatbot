@@ -1,9 +1,0 @@
-{
-  "id": "ecccd59d-6734-4e84-8bc3-4470d6d23f61",
-  "name": "qos_unit",
-  "isOverridable": true,
-  "isEnum": false,
-  "isRegexp": false,
-  "automatedExpansion": true,
-  "allowFuzzyExtraction": false
-}

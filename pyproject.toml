@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "lumi-chatbot"
+version = "0.1.0"
+description = ""
+authors = ["Arthur Jacobs <asjacobs@inf.ufrgs.br>"]
+
+[tool.poetry.dependencies]
+python = "==3.7"
+rasa = "^2.8.0"
+requests = "^2.25.1"
+rasa_composite_entities = "^2.0.1"
+
+
+[tool.poetry.dev-dependencies]
+pytest = "^4.6"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
